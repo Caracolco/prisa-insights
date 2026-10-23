@@ -238,6 +238,19 @@ export function Social({ s }: { s: Segment }) {
         <div className="senti">
           <SentimentStrip counts={so.sentiment.counts} />
           <p className="senti__read">En Colombia predominan las menciones informativas o sin valoración ({pct(sp('NEUTRO'))}); entre las que sí valoran, pesan más las negativas ({pct(sp('NEGATIVO'))}) que las positivas ({pct(sp('POSITIVO'))}).</p>
+          {so.sentiment.examples && (
+            <ul className="tone" aria-label="Ejemplos reales anonimizados por tono">
+              {([['POSITIVO', 'Positivo'], ['NEUTRO', 'Neutral'], ['NEGATIVO', 'Negativo']] as const).map(([k, label]) => {
+                const items = so.sentiment.examples?.[k] ?? [];
+                return (
+                  <li key={k} className="tone__col">
+                    <span className="tone__label"><i className={`ring__key--${k.toLowerCase()}`} aria-hidden />{label}</span>
+                    {items.length ? items.map((e, i) => <p key={i} className="tone__quote"><q>{e.text}</q><span className="quotes__meta">{e.platform}{e.month ? `, ${e.month}` : ''}</span></p>) : <p className="quotes__none">Sin ejemplo publicable en esta categoría.</p>}
+                  </li>
+                );
+              })}
+            </ul>
+          )}
           <p className="senti__note">No es un indicador: en una auditoría independiente la clasificación coincidió con la lectura humana en {so.sentiment.stratified ? pct(so.sentiment.stratified.agreement * 100) : '–'} de una muestra estratificada (≈{so.sentiment.accuracy != null ? pct(so.sentiment.accuracy * 100) : '–'} ponderado por la distribución real), por debajo del 80 % requerido. La ironía y las quejas sin adjetivos siguen siendo difíciles de leer automáticamente.</p>
         </div>
         </Collapsible>

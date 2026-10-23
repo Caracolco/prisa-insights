@@ -108,6 +108,11 @@
         "body": "Limpias, rituales y mascarillas con huevo."
       }
     ],
+    "toneExamples": {
+      "POSITIVO": ["yo estuve este año por ese sector"],
+      "NEUTRO": ["Eso valen los dos cartones de huevo"],
+      "NEGATIVO": ["hacen dos meses la canasta de huevo"]
+    },
     "emergent": [],
     "outside": [
       {
@@ -247,6 +252,11 @@
       }
     ],
     "unexpectedUses": [],
+    "toneExamples": {
+      "POSITIVO": ["La mejor calidad de pollo de cadenas"],
+      "NEUTRO": ["Hoy hice comida de cumpleaños"],
+      "NEGATIVO": ["Pollo asado es muy caro"]
+    },
     "emergent": [
       {
         "id": "mascotas",

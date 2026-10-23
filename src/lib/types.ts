@@ -37,7 +37,7 @@ export interface Social {
   emergent: SocialEmergent[];
   outside: { id: string; title: string; body: string }[];
   brands: { title: string; body: string }[];
-  sentiment: { status: string; counts: Partial<Record<Sentiment, number>>; accuracy: number | null; stratified: { agreement: number; weighted: number; sample: number } | null };
+  sentiment: { status: string; counts: Partial<Record<Sentiment, number>>; examples?: Partial<Record<Sentiment, Excerpt[]>>; accuracy: number | null; stratified: { agreement: number; weighted: number; sample: number } | null };
   accuracy: { relevance?: number; sentiment?: number; topics?: number };
   signals: Record<string, { n: number; share: number }>;
   discardReasons: Record<string, number>;

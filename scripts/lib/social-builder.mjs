@@ -3,6 +3,10 @@
 // "país no identificado" solo aparecen como contexto secundario y con nota explícita. Nada se traslada
 // automáticamente al consumidor colombiano.
 
+import { norm } from './social-rules.mjs';
+import { UNSAFE_EXCERPT } from './signals.mjs';
+import { POLITICAL } from './social-semantics.mjs';
+
 const NB = ' ';
 const fmt = (n, d = 1) => Number(n).toLocaleString('es-CO', { maximumFractionDigits: d });
 
@@ -104,6 +108,28 @@ export function buildSocial({ product, m, editorial, quality }) {
 
   // 7. Sentimiento: lectura exploratoria (no KPI)
   const brands = ed.brands.filter((b) => b.basedOn.every((ref) => stat(get(ref)).n >= R.minNColombia)).map((b) => ({ title: b.title, body: safe(render, b.body) })).filter((b) => b.body).slice(0, 3);
+  // Ejemplos de tono: extractos ya anonimizados de Colombia con su sentimiento registrado (sin texto nuevo).
+  // El editorial solo indica cuáles (por el inicio del texto); se publican si existen en los datos, su sentimiento
+  // coincide y pasan el filtro (sin política, insultos, prensa/hashtags, nombres ni textos recortados).
+  const TONE_SKIP = /#|\[(correo|teléfono)\]|…$|muert[oa]s de hambre|huev[oó]n|plaga|kk?a?kas|kkas|payas|gilbard|clinton|nari[nñ]o|salario|inflaci|dia mundial/i;
+  const TONE_PRODUCT = product === 'pollo' ? /\bpoll(o|os|ito|itos)\b/ : /\bhuev(o|os|ito|itos)\b/;
+  const publishable = (t) => {
+    if (!TONE_PRODUCT.test(norm(t))) return false;
+    const letters = (t.match(/\p{L}/gu) ?? []).length; const caps = (t.match(/\p{Lu}/gu) ?? []).length;
+    return t.length >= 50 && t.length <= 220 && caps / Math.max(1, letters) < 0.3 && !/^\p{Lu}\p{Ll}+ \p{Lu}\p{Ll}+/u.test(t)
+      && !TONE_SKIP.test(t) && !TONE_SKIP.test(norm(t)) && !UNSAFE_EXCERPT.test(norm(t)) && !POLITICAL.test(norm(t));
+  };
+  const tonePool = [co.topics, co.occasions, co.signals].flatMap((src) => Object.values(src).flatMap((b) => b.excerpts ?? [])).filter((e) => publishable(e.text));
+  const toneExamples = Object.fromEntries(['POSITIVO', 'NEUTRO', 'NEGATIVO'].map((s) => {
+    const out = [];
+    for (const ref of ed.toneExamples?.[s] ?? []) {
+      const e = tonePool.find((x) => x.text.startsWith(ref));
+      if (!e) { console.warn(`  · ejemplo de tono ${s} no encontrado o no publicable: "${ref}"`); continue; }
+      if (e.sentiment !== s) { console.warn(`  · ejemplo de tono descartado: registrado como ${e.sentiment}, no ${s}`); continue; }
+      if (out.length < 2 && !out.some((o) => similar(o.text, e.text))) out.push(e);
+    }
+    return [s, out];
+  }));
   const q = quality?.products?.[product];
   const strat = quality?.validation?.sentimentStratified?.[product];
   return {
@@ -114,7 +140,7 @@ export function buildSocial({ product, m, editorial, quality }) {
     otherCountries: m.otherCountries,
     months: co.months,
     topics, tensions, occasions, occasionsWeak, unexpectedUses, insights, emergent, outside, brands,
-    sentiment: { status: 'exploratorio', counts: co.sentiment, accuracy: val.sentimiento?.[product] ?? null, stratified: strat ?? null },
+    sentiment: { status: 'exploratorio', counts: co.sentiment, examples: toneExamples, accuracy: val.sentimiento?.[product] ?? null, stratified: strat ?? null },
     accuracy: { relevance: val.relevancia?.[product], sentiment: val.sentimiento?.[product], topics: val.tematicas?.[product] },
     signals: Object.fromEntries(Object.entries(co.signals).map(([k, v]) => [k, { n: v.n, share: v.share }])),
     discardReasons: q ? Object.fromEntries(Object.entries(q.razonesDescarte).map(([k, v]) => [k, v.n])) : {},

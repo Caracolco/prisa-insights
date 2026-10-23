@@ -394,6 +394,14 @@
 .senti .sstrip { height: 8px; }
 .senti__read { font-size: var(--t-s); color: var(--text-2); }
 .senti__note { font-size: var(--t-xs); color: var(--muted); line-height: 1.5; }
+/* Ejemplos por tono: contexto cualitativo, compacto bajo la barra */
+.tone { list-style: none; margin: 2px 0 0; padding: 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
+.tone__col { display: grid; align-content: start; gap: 6px; padding-top: 10px; border-top: 1px solid var(--line); }
+.tone__label { display: inline-flex; align-items: center; gap: 6px; font-size: 11px; font-weight: 650; letter-spacing: 0.06em; text-transform: uppercase; color: var(--text-2); }
+.tone__label i { width: 8px; height: 8px; border-radius: 2px; }
+.tone__quote { margin: 0; display: grid; gap: 3px; }
+.tone__quote q { font-size: var(--t-xs); color: var(--text); line-height: 1.5; }
+@media (max-width: 600px) { .tone { grid-template-columns: 1fr; gap: 12px; } }
 .quotes__none { font-size: var(--t-xs); color: var(--muted); }
 
 .cross__pair { display: grid; gap: 10px; margin: 0; }
