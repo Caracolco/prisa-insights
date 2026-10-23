@@ -1,5 +1,7 @@
 # PRISA Insights — Audience Intelligence (web)
 
+> **Esta versión corresponde a una demostración funcional con audiencias y datos de ejemplo/prototipo. No constituye la versión definitiva de producción.**
+
 Versión web, narrativa e interactiva del dashboard Power BI **PRISA Insights**. Es un proyecto
 independiente: **no lee ni modifica** el PBIP; solo usa como fuente los XLSX de `Data/TGI`, la carpeta
 `Social_Listening` y el diccionario de etiquetas `Dim_TGI_Etiqueta` (lectura).
