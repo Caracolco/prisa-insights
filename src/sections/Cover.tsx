@@ -1,14 +1,13 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { motion, useReducedMotion } from 'motion/react';
 import type { SegmentIndexItem } from '../lib/types';
-import { Counter } from '../motion/Counter';
 
-interface Props { segments: SegmentIndexItem[]; stats: { variables: number; mentions: number; relevant: number }; onEnter: () => void }
+interface Props { segments: SegmentIndexItem[]; onEnter: () => void }
 
 const wave = (x: number, t: number) => Math.sin(x * 9.2 + t * 0.9) * 0.55 + Math.sin(x * 23 - t * 1.4) * 0.25 + Math.sin(x * 4.1 + t * 0.35) * 0.2;
 const envelope = (x: number) => Math.sin(Math.PI * x) ** 1.4;
 
-export function Cover({ segments, stats, onEnter }: Props) {
+export function Cover({ segments, onEnter }: Props) {
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const reduce = useReducedMotion();
   const [leaving, setLeaving] = useState(false);
@@ -69,12 +68,6 @@ export function Cover({ segments, stats, onEnter }: Props) {
         <motion.p className="cover__lede" {...fade(0.7)}>
           Lo que la audiencia declara, cómo escucha, cómo navega y lo que dice cuando nadie le pregunta, en una sola lectura.
         </motion.p>
-        <motion.dl className="cover__stats" {...fade(0.75)}>
-          <div><dt>Variables TGI por audiencia</dt><dd><Counter value={stats.variables} decimals={0} duration={1.6} /></dd></div>
-          <div><dt>Audiencias</dt><dd><Counter value={segments.length} decimals={0} duration={1.2} /></dd></div>
-          <div><dt>Menciones sociales leídas</dt><dd><Counter value={stats.mentions} decimals={0} duration={2} /></dd></div>
-          <div><dt>Relevantes tras depurar</dt><dd><Counter value={stats.relevant} decimals={0} duration={2.2} /></dd></div>
-        </motion.dl>
         <motion.div className="cover__sources" {...fade(0.9)} aria-label="Fuentes integradas">
           {['TGI', 'Audio', 'Digital', 'Social'].map((s, i) => (
             <motion.span key={s} className={`cover__source cover__source--${i}`} {...fade(1 + i * 0.15)}>{s}</motion.span>

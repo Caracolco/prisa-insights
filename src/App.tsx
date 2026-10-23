@@ -25,7 +25,6 @@ export default function App() {
   const initial = readHash();
   const [entered, setEntered] = useState(Boolean(location.hash));
   const [index, setIndex] = useState<SegmentIndex | null>(null);
-  const [stats, setStats] = useState({ variables: 0, mentions: 0, relevant: 0 });
   const [page, setPage] = useState<PageId>(initial.page);
   const [segId, setSegId] = useState<string | null>(initial.seg);
   const [segment, setSegment] = useState<Segment | null>(null);
@@ -37,7 +36,6 @@ export default function App() {
       setIndex(ix);
       setSegId((cur) => cur ?? (ix.segments.find((s) => s.hasSocial)?.id ?? ix.segments[0].id));
       prefetchAll(ix.segments.map((s) => s.id));
-      if (ix.stats) setStats(ix.stats); // contadores de portada, calculados por el pipeline
     }).catch((e) => setError(String(e.message ?? e)));
   }, []);
 
@@ -57,7 +55,7 @@ export default function App() {
   const current = useMemo(() => index?.segments.find((s) => s.id === segId), [index, segId]);
 
   if (error) return <div className="fatal"><h1>No se pudieron cargar los datos</h1><p>{error}</p></div>;
-  if (!entered) return index ? <Cover segments={index.segments} stats={stats} onEnter={() => setEntered(true)} /> : <div className="boot" aria-busy="true" />;
+  if (!entered) return index ? <Cover segments={index.segments} onEnter={() => setEntered(true)} /> : <div className="boot" aria-busy="true" />;
 
   const key = `${page}:${segment?.id ?? 'x'}`;
   return (
