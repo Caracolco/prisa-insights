@@ -14,7 +14,7 @@ export const PAGES = [
 ] as const;
 export type PageId = (typeof PAGES)[number]['id'];
 
-export function Sidebar({ page, onPage, open, onClose }: { page: PageId; onPage: (p: PageId) => void; open: boolean; onClose: () => void }) {
+export function Sidebar({ page, onPage, open, onClose, hasSocial = true }: { page: PageId; onPage: (p: PageId) => void; open: boolean; onClose: () => void; hasSocial?: boolean }) {
   return (
     <>
       <nav className={`side theme-dark ${open ? 'is-open' : ''}`} aria-label="Secciones">
@@ -26,7 +26,7 @@ export function Sidebar({ page, onPage, open, onClose }: { page: PageId; onPage:
         </div>
         <p className="side__hint">La lectura avanza de quién es a qué hacer.</p>
         <ol className="side__list">
-          {PAGES.map((p) => (
+          {PAGES.filter((p) => hasSocial || p.id !== 'social').map((p) => (
             <li key={p.id}>
               <button className={`side__item ${p.id === page ? 'is-active' : ''}`} aria-current={p.id === page ? 'page' : undefined} onClick={() => { onPage(p.id); onClose(); }}>
                 <span className="side__text"><span className="side__name">{p.name}{p.id === 'sintetica' && <span className="tag-proto">Prototipo</span>}</span><span className="side__q">{p.question}</span></span>

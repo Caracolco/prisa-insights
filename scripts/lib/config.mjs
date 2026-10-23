@@ -21,6 +21,7 @@ export const SEGMENTS = [
   { id: 'c-level', definitionLabel: 'Cargo directivo (C-Level)', name: 'C-Level', tgiFile: 'C_Level.xlsx' },
   { id: 'compra-vehiculo', definitionLabel: 'Planea comprar vehículo en los próximos 6 meses', name: 'Compra vehículo próximos 6 meses', tgiFile: 'Compra_Vehiculo_Proximos6Meses.xlsx' },
   { id: 'comprador-hogar', definitionLabel: 'Hace las compras del hogar (15+ años)', name: 'Comprador del hogar', tgiFile: 'Comprador_Del_Hogar.xlsx' },
+  { id: 'conciertos', definitionLabel: 'Le gusta ir a conciertos', name: 'Asistentes a conciertos', tgiFile: 'Asistentes_Conciertos.xlsx' },
   { id: 'huevo', definitionLabel: 'Consume huevo una o más veces al día', name: 'Consumidor de huevo diario', tgiFile: 'Consumidor_Huevo_TodosLosDias.xlsx', social: 'Consumidor_Huevo_TodosLosDias.xlsx', product: 'huevo' },
   { id: 'pollo', definitionLabel: 'Consume pollo dos o más veces por semana', name: 'Consumidor de pollo 2+ veces por semana', tgiFile: 'Consumidor_Pollo_+2vecesxsemana.xlsx', social: 'Consumidor_Pollo_+2vecesxsemana.xlsx', product: 'pollo' },
   { id: 'mochilero', definitionLabel: 'Ha hecho vacaciones tipo mochilero (18+ años)', name: 'Mochilero', tgiFile: 'Mochilero.xlsx' },

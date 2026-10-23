@@ -54,6 +54,11 @@ export default function App() {
 
   const current = useMemo(() => index?.segments.find((s) => s.id === segId), [index, segId]);
 
+  // Social Listening solo existe para segmentos con escucha: si el segmento no la tiene, se pasa a Perfil.
+  useEffect(() => {
+    if (page === 'social' && current && !current.hasSocial) setPage('perfil');
+  }, [page, current]);
+
   if (error) return <div className="fatal"><h1>No se pudieron cargar los datos</h1><p>{error}</p></div>;
   if (!entered) return index ? <Cover segments={index.segments} onEnter={() => setEntered(true)} /> : <div className="boot" aria-busy="true" />;
 
@@ -61,7 +66,7 @@ export default function App() {
   return (
     <motion.div className="app" initial={reduce ? false : { opacity: 0, scale: 0.985, filter: 'blur(4px)' }} animate={{ opacity: 1, scale: 1, filter: 'blur(0px)' }} transition={{ duration: 0.7, ease: [0.22, 1, 0.36, 1] }}>
       <div className="app-bg" aria-hidden />
-      <Sidebar page={page} onPage={(p) => { setPage(p); window.scrollTo({ top: 0, behavior: reduce ? 'auto' : 'smooth' }); }} open={menu} onClose={() => setMenu(false)} />
+      <Sidebar page={page} onPage={(p) => { setPage(p); window.scrollTo({ top: 0, behavior: reduce ? 'auto' : 'smooth' }); }} open={menu} onClose={() => setMenu(false)} hasSocial={current?.hasSocial ?? true} />
       <div className="main">
         {index && <TopBar segments={index.segments} current={current} onSegment={setSegId} onMenu={() => setMenu(true)} />}
         <main className="content" id="contenido">
@@ -73,7 +78,7 @@ export default function App() {
                 exit={reduce ? { opacity: 0 } : { opacity: 0, y: -8, filter: 'blur(3px)' }}
                 transition={{ duration: 0.32, ease: [0.22, 1, 0.36, 1] }}>
                 {page === 'perfil' && <Perfil s={segment} />}
-                {page === 'social' && <Social s={segment} />}
+                {page === 'social' && current?.hasSocial && <Social s={segment} />}
                 {page === 'sintetica' && <Sintetica s={segment} />}
                 {page === 'actividades' && <Actividades s={segment} />}
                 {page === 'radio' && <Radio s={segment} />}

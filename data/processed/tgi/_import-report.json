@@ -1,6 +1,14 @@
 {
- "generatedAt": "2026-10-23T01:56:03.373Z",
+ "generatedAt": "2026-10-23T17:41:53.931Z",
  "files": [
+  {
+   "file": "Asistentes_Conciertos.xlsx",
+   "segment": "conciertos",
+   "rows": 997,
+   "items": 879,
+   "duplicatesSkipped": 108,
+   "segment000": 2859.5
+  },
   {
    "file": "Comprador_Del_Hogar.xlsx",
    "segment": "comprador-hogar",

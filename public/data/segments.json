@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-23T11:52:08.723Z",
+ "generatedAt": "2026-10-23T17:42:28.481Z",
  "stats": {
   "variables": 879,
   "mentions": 169602,
@@ -30,6 +30,15 @@
    "variables": 879,
    "size000": 14318,
    "share": 64.4,
+   "hasSocial": false,
+   "product": null
+  },
+  {
+   "id": "conciertos",
+   "name": "Asistentes a conciertos",
+   "variables": 879,
+   "size000": 2860,
+   "share": 12.9,
    "hasSocial": false,
    "product": null
   },

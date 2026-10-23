@@ -1,0 +1,188 @@
+{
+ "segment": "Asistentes a conciertos",
+ "size": "2.9 M personas (12.9% de la población TGI)",
+ "source": "Colombia TGI (Español) TGI CO 2026 R2 - Personas",
+ "profile": {
+  "headline": "Mayoría femenina de 25 a 44 años, con más peso en Antioquia.",
+  "gender": [
+   "Masculino: 43.9% (índice 92)",
+   "Femenino: 56.1% (índice 107)"
+  ],
+  "age": [
+   "12–17: 12.5% (índice 113)",
+   "18–24: 11% (índice 76)",
+   "25–34: 24.7% (índice 111)",
+   "35–44: 18.5% (índice 100)",
+   "45–54: 13.7% (índice 95)",
+   "55–64: 16.2% (índice 104)",
+   "65+: 3.6% (índice 91)"
+  ],
+  "nse": [
+   "Estrato 2: 37.1% (índice 86)",
+   "Estrato 3: 37.7% (índice 106)",
+   "Estrato 4: 16.6% (índice 120)",
+   "Estrato 5 y 6: 8.5% (índice 112)"
+  ],
+  "region": [
+   "Bogotá: 27.2% (índice 107)",
+   "Antioquia: 18.2% (índice 119)",
+   "Pacífico: 18% (índice 114)",
+   "Oriente: 7.8% (índice 71)",
+   "Caribe: 10.7% (índice 76)",
+   "Café: 4.9% (índice 82)",
+   "Andina: 13.2% (índice 104)"
+  ],
+  "education": [
+   "Sin estudios: 0.1% (índice 18)",
+   "Primaria: 1.9% (índice 49)",
+   "Bachillerato: 25.8% (índice 102)",
+   "Técnico o tecnológico: 24% (índice 88)",
+   "Universitario: 37.6% (índice 108)",
+   "Posgrado: 9% (índice 130)"
+  ],
+  "household": [
+   "Jefe de familia-Sí: 62.6%",
+   "Entrevistado: 64.5%"
+  ]
+ },
+ "activities": [
+  "Ir a conciertos: 100% (índice 778)",
+  "Escuchar música: 86.4% (índice 160)",
+  "Comer en un restaurante: 71% (índice 185)",
+  "Ir a centros comerciales: 56.3% (índice 196)",
+  "Salir de la ciudad: 56% (índice 257)",
+  "Salir a caminar/ senderismo: 54.8% (índice 165)",
+  "Ir a la playa/ laguna/ río: 52.1% (índice 227)",
+  "Salir a bailar: 46.3% (índice 254)"
+ ],
+ "sports": [
+  "Actividades más frecuentes/ de rutina: Fútbol: 28.8% (índice 133)",
+  "Actividades más frecuentes/ de rutina: Baloncesto: 21.3% (índice 153)",
+  "Actividades más frecuentes/ de rutina: Ciclismo: 20.5% (índice 159)",
+  "Actividades más frecuentes/ de rutina: Atletismo: 17.9% (índice 125)",
+  "Actividades más frecuentes/ de rutina: Natación: 16.4% (índice 207)"
+ ],
+ "vacations": [
+  "Playa/ resort/ balneario: 35.7% (índice 162)",
+  "Descanso en la ciudad: 29.6% (índice 155)",
+  "Lagos y montañas: 17% (índice 178)",
+  "Parque temático: 15.5% (índice 201)"
+ ],
+ "opinions": [
+  "Le atrae viajar al exterior: 58.5% (índice 132)",
+  "Hace ejercicio cada semana: 35.5% (índice 125)",
+  "Considera clave estar bien informado: 52.8% (índice 119)",
+  "Persiste aunque no triunfe a la primera: 54.7% (índice 117)",
+  "Celebra Halloween: 31.6% (índice 126)",
+  "Disfruta celebrar Navidad y Año Nuevo: 47.9% (índice 112)",
+  "Cree que el carro dice mucho de su dueño: 21.9% (índice 114)",
+  "Sigue con interés el Mundial 2026: 32.2% (índice 111)"
+ ],
+ "sharedOpinions": [
+  "Le atrae viajar al exterior: 58.5% (índice 132)",
+  "Persiste aunque no triunfe a la primera: 54.7% (índice 117)",
+  "Considera clave estar bien informado: 52.8% (índice 119)",
+  "Disfruta el tiempo en familia: 51.2% (índice 100)",
+  "Aprovecha las oportunidades cuando surgen: 50.9% (índice 111)"
+ ],
+ "futurePlans": [
+  "Reformar el hogar: 19.8% (índice 123)",
+  "Iniciar un posgrado: 10.6% (índice 130)",
+  "Cambiar de trabajo: 14.1% (índice 108)",
+  "Vender su vivienda actual: 5.5% (índice 163)",
+  "Viajar al exterior por primera vez: 10.2% (índice 106)"
+ ],
+ "radio": {
+  "reach": "76.6% escucha radio (índice 109)",
+  "best": "Mejor franja: L–V 06–11 (33%, índice 120)",
+  "stations": [
+   "Caracol: 21.1% (índice 111)",
+   "Bésame: 19.7% (índice 111)",
+   "Olímpica: 19% (índice 125)",
+   "La FM: 18.3% (índice 113)",
+   "Tropicana: 18.1% (índice 136)",
+   "Blu: 17.5% (índice 120)",
+   "La Mega: 14.8% (índice 116)",
+   "Alerta: 10.5% (índice 172)"
+  ],
+  "programs": [
+   "Autos: 11.3% (índice 187)",
+   "Decoración y hogar: 10.4% (índice 166)",
+   "Turismo y viajes: 13.3% (índice 156)",
+   "Comentarios sobre novelas de TV: 8.8% (índice 148)",
+   "Programas sobre fútbol-Noticias y comentarios: 13.5% (índice 142)",
+   "Consejos/ opinión: 10.9% (índice 140)"
+  ],
+  "places": [
+   "En mi hogar: 44.6% (índice 118)",
+   "En el trabajo: 18.7% (índice 122)",
+   "En el automóvil: 18.2% (índice 122)",
+   "En transporte público: 7.3% (índice 125)"
+  ]
+ },
+ "prisaBrands": [
+  "Los40: 5.9% (índice 145)",
+  "Tropicana: 18.1% (índice 136)",
+  "Radioacktiva: 4% (índice 123)",
+  "Caracol Radio: 21.1% (índice 111)",
+  "Bésame: 19.7% (índice 111)"
+ ],
+ "digital": {
+  "social": [
+   "Facebook: 71.9% (índice 108)",
+   "YouTube: 62.8% (índice 119)",
+   "Instagram: 59.4% (índice 108)",
+   "TikTok: 52.7% (índice 120)",
+   "Pinterest: 19.9% (índice 135)",
+   "X: 19.2% (índice 129)",
+   "LinkedIn: 16.3% (índice 141)",
+   "Snapchat: 5.2% (índice 160)"
+  ],
+  "apps": [
+   "Usó-U30d: Bancos: 55.2% (índice 119)",
+   "Usó-U30d: Red social: 39.7% (índice 123)",
+   "Usó-U30d: Música: 35.8% (índice 123)",
+   "Google Maps: 28.6% (índice 131)",
+   "Rappi: 26.2% (índice 144)",
+   "Usó-U30d: Compras: 25% (índice 130)"
+  ],
+  "internetPeriods": [
+   "06–11: 48.1% (índice 103)",
+   "12–14: 48.4% (índice 103)",
+   "15–19: 73.4% (índice 111)",
+   "20–23: 56.3% (índice 111)",
+   "00–05: 7.9% (índice 103)"
+  ]
+ },
+ "video": [
+  "Netflix: 50.1% (índice 122)",
+  "Disney+: 25.7% (índice 118)",
+  "Prime Video: 19.3% (índice 125)",
+  "HBO Max: 16.8% (índice 112)",
+  "YouTube videos pagos: 13.2% (índice 131)",
+  "Claro TV+: 8.1% (índice 117)"
+ ],
+ "podcast": {
+  "listens": "43.4%",
+  "topics": [
+   "Estilo de Vida y Salud: 13% (índice 128)",
+   "Comedia: 10.6% (índice 134)",
+   "Noticias y Política: 10.2% (índice 163)",
+   "Tecnología: 10.2% (índice 129)",
+   "Sociedad y Cultura: 10% (índice 140)",
+   "Música: 9.9% (índice 111)"
+  ]
+ },
+ "contentThemes": [
+  "Autos (Radio): 11.3% (índice 187)",
+  "Siempre veo/ regularmente: Música/ shows/ streaming videoclips (Video online): 34.5% (índice 143)",
+  "Siempre veo/ regularmente: Reality show (Video online): 18.2% (índice 157)",
+  "Decoración y hogar (Radio): 10.4% (índice 166)",
+  "Turismo y viajes (Radio): 13.3% (índice 156)",
+  "Noticias y Política (Podcast): 10.2% (índice 163)",
+  "Siempre veo/ regularmente: Series nacionales (Video online): 17.5% (índice 144)",
+  "Siempre veo/ regularmente: Series extranjeras (Video online): 24.6% (índice 134)"
+ ],
+ "socialListening": null,
+ "crossSourceInsights": []
+}
