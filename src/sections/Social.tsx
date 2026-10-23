@@ -186,7 +186,6 @@ export function Social({ s }: { s: Segment }) {
             <article key={e.id} className="emerg">
               <header className="emerg__head">
                 <span className="emerg__status">{e.status}</span>
-                <span className="emerg__conf">Confianza {e.confidence}</span>
               </header>
               <h3 className="emerg__title display">{e.title}</h3>
               <p className="emerg__body">{e.body}</p>

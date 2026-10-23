@@ -250,12 +250,12 @@
     "emergent": [
       {
         "id": "mascotas",
-        "title": "Las mascotas aparecen como un nuevo contexto de consumo dentro del hogar.",
-        "status": "Señal emergente",
+        "title": "Mascotas: una nueva ocasión de consumo que empieza a tomar forma",
+        "status": "Insight en crecimiento",
         "metric": "signals.mascotasAlimentacion",
         "purchaseMetric": "signals.mascotasCompra",
         "precision": "validation.mascotasAlimentacion.pollo",
-        "body": "Personas que hierven, deshebran o cocinan pollo para su perro o gato, lo usan como premio o en dietas de mascotas enfermas. Todavía no hay evidencia suficiente de compra explícita para hablar de un nuevo decisor de compra.",
+        "body": "Empiezan a aparecer conversaciones en las que el pollo se incorpora a la alimentación de perros y gatos: hervido, desmechado, como premio o como parte de dietas especiales. La señal tiene mayor desarrollo fuera de Colombia, pero ya aparece en la conversación local y abre una nueva ocasión de consumo dentro del hogar.",
         "confidence": "baja"
       }
     ],
