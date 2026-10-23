@@ -80,6 +80,7 @@ for (const seg of SEGMENTS.filter((s) => s.social)) {
     sin_pais: computeBlock(product, blocks.sin_pais),
     total: computeBlock(product, relCapped),
   };
+  geo.co.toneCandidates = toneCandidates(blocks.co);
   const consumer = rel.filter((r) => r.voice === 'consumidor');
   const metrics = {
     product, segment: seg.id, generatedAt: quality.generatedAt,
@@ -137,6 +138,16 @@ function pickExcerpts(rows, n, keepOrder = false) {
     .map((r) => ({ text: anonymize(r.raw), sentiment: r.sentiment, platform: r.platform, month: (r.created || '').slice(0, 7) }))
     .filter((e) => e.text.length >= 30)
     .slice(0, n);
+}
+
+// Pool de ejemplos por tono (solo Colombia): voz de consumidor con su sentimiento registrado, texto completo
+// (sin recorte), anonimizado, sin contenido político ni inseguro. Solo contexto cualitativo: no altera conteos.
+function toneCandidates(rows, n = 40) {
+  return Object.fromEntries(['POSITIVO', 'NEUTRO', 'NEGATIVO', 'MIXTO'].map((s) => [s, rows
+    .filter((r) => r.voice === 'consumidor' && r.sentiment === s && !r.political && r.raw && r.raw.length >= 40 && r.raw.length <= 220 && r.confidence >= 0.55 && !UNSAFE_EXCERPT.test(r.t) && !/jaja|😂|🤣/.test(r.t + r.raw))
+    .sort((a, b) => a.raw.length - b.raw.length || String(a.created).localeCompare(String(b.created)))
+    .slice(0, n)
+    .map((r) => ({ text: anonymize(r.raw), sentiment: r.sentiment, platform: r.platform, month: (r.created || '').slice(0, 7) }))]));
 }
 
 // Bloque de métricas para un conjunto de menciones relevantes (una geografía)

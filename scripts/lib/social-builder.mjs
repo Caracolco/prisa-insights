@@ -119,7 +119,7 @@ export function buildSocial({ product, m, editorial, quality }) {
     return t.length >= 50 && t.length <= 220 && caps / Math.max(1, letters) < 0.3 && !/^\p{Lu}\p{Ll}+ \p{Lu}\p{Ll}+/u.test(t)
       && !TONE_SKIP.test(t) && !TONE_SKIP.test(norm(t)) && !UNSAFE_EXCERPT.test(norm(t)) && !POLITICAL.test(norm(t));
   };
-  const tonePool = [co.topics, co.occasions, co.signals].flatMap((src) => Object.values(src).flatMap((b) => b.excerpts ?? [])).filter((e) => publishable(e.text));
+  const tonePool = [co.topics, co.occasions, co.signals, co.toneCandidates ?? {}].flatMap((src) => Object.values(src).flatMap((b) => (Array.isArray(b) ? b : b.excerpts ?? []))).filter((e) => publishable(e.text));
   const toneExamples = Object.fromEntries(['POSITIVO', 'NEUTRO', 'NEGATIVO'].map((s) => {
     const out = [];
     for (const ref of ed.toneExamples?.[s] ?? []) {

@@ -109,7 +109,7 @@
       }
     ],
     "toneExamples": {
-      "POSITIVO": ["yo estuve este año por ese sector"],
+      "POSITIVO": ["Me gusta mucho el café acompañado"],
       "NEUTRO": ["Eso valen los dos cartones de huevo"],
       "NEGATIVO": ["hacen dos meses la canasta de huevo"]
     },
@@ -253,7 +253,7 @@
     ],
     "unexpectedUses": [],
     "toneExamples": {
-      "POSITIVO": ["La mejor calidad de pollo de cadenas"],
+      "POSITIVO": ["Me gusta el pollo asado gracias"],
       "NEUTRO": ["Hoy hice comida de cumpleaños"],
       "NEGATIVO": ["Pollo asado es muy caro"]
     },

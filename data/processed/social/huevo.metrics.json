@@ -1,7 +1,7 @@
 {
  "product": "huevo",
  "segment": "huevo",
- "generatedAt": "2026-10-23T03:42:38.166Z",
+ "generatedAt": "2026-10-23T14:09:48.339Z",
  "period": {
   "from": "2026-07-23 04:33:10",
   "to": "2026-10-22 19:10:53"
@@ -1498,6 +1498,574 @@
       }
      ]
     }
+   },
+   "toneCandidates": {
+    "POSITIVO": [
+     {
+      "text": "Coma carne de cerdo que está más barata que el huevo",
+      "sentiment": "POSITIVO",
+      "platform": "Facebook",
+      "month": "2026-09"
+     },
+     {
+      "text": "y bastante ricos comiendo arroz con suero queso huevo y solo",
+      "sentiment": "POSITIVO",
+      "platform": "Facebook",
+      "month": "2026-09"
+     },
+     {
+      "text": "Déjame comiendo mi arroz con huevo y tajaditas maduras con m consciencia limpia y tranquila ✍️👌🤷🤷🤷",
+      "sentiment": "POSITIVO",
+      "platform": "Facebook",
+      "month": "2026-07"
+     },
+     {
+      "text": "Me gusta mucho el café acompañado con pandebono o buñuelo más tal vez un perico de huevo y gusta también frío pero amargo para la sed.",
+      "sentiment": "POSITIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Dios eres maravilloso. Te invitaré a comerte un caldo de huevo con arepa .en caño viejo palotal.Te sanaras pronto. ERES EL CONSENTIDO DE DIOS. CHAO PESCAO",
+      "sentiment": "POSITIVO",
+      "platform": "Facebook",
+      "month": "2026-09"
+     },
+     {
+      "text": "eso del huevo es. arroz chaufa . comida peruana .. la mejor comida del mundo. es catalogada mucho mejor que la colombiana..ojo..su ceviche mixto .excelente ...",
+      "sentiment": "POSITIVO",
+      "platform": "Facebook",
+      "month": "2026-09"
+     },
+     {
+      "text": "pero si usted le compra el huevo más barato ..Mo le compra el huevo de campo ...si pa los gustos y el alcanse del bolsillo no debe habef disgustos",
+      "sentiment": "POSITIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "@usuario @usuario @usuario Te estas dejando meter el huevo porque yo pago 35 mil pesos en claro con minutos e internet ilimitado, tiene la mejor cobertura en colombia.",
+      "sentiment": "POSITIVO",
+      "platform": "X (Twitter)",
+      "month": "2026-08"
+     },
+     {
+      "text": "yo estuve este año por ese sector por el lado de la fiscalía hay una señora que vende unos desayuno vea ...arroz con huevo frito y café...con frutos del pan .. frito 😋😋😋",
+      "sentiment": "POSITIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "@usuario Dio en el detalle, si un paquete con papas con gaseosa son más baratas q 1 libra de arroz con huevo adivine la educación alimentaria en Colombia de la gente q va escoger",
+      "sentiment": "POSITIVO",
+      "platform": "X (Twitter)",
+      "month": "2026-08"
+     },
+     {
+      "text": "Resentida los que querían quedarse con el poder era el drogotusi de tu papá para tapar tanto robo que hizo a los colombianos para Uds vivir sabroso infeliz tu ni te conocemos serás huevo de otro pajaro 😃",
+      "sentiment": "POSITIVO",
+      "platform": "Facebook",
+      "month": "2026-09"
+     }
+    ],
+    "NEUTRO": [
+     {
+      "text": "Nada más sirve para comer arepa de huevo",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-08"
+     },
+     {
+      "text": "Eso en qué afecta el precio del huevo 🤔",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-09"
+     },
+     {
+      "text": "Lógicamente que si, arroz con huevo frito",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-09"
+     },
+     {
+      "text": "Huevo a 700... y los ricos comiendo caviar",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-08"
+     },
+     {
+      "text": "Que los manden a comer huevo con Marañón .",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Le toco irse vender arepa de huevo a suecia",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-08"
+     },
+     {
+      "text": "La patria milagro cubeta de huevo a 20 .00p",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "No me desprecie el arroz con huevo la demando",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-08"
+     },
+     {
+      "text": "perico, pero de huevo con pancito.",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-09"
+     },
+     {
+      "text": "Vieja torpe ni siquiera podrá comerse un huevo",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Afecta en algo el precio del huevo cojan oficio",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-08"
+     },
+     {
+      "text": "Cada día queda peor tiene más figura un huevo 😛",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-09"
+     },
+     {
+      "text": "Estaba buscando arepas de huevo para el desayuno",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-09"
+     },
+     {
+      "text": "Uyyy que oso una progre comiendo pollo y huevo ?",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Prefiero comer arroz con huevo y dormir tranquilo",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-09"
+     },
+     {
+      "text": "Don huevo no tiene ni yema, . Jjjj.don segundo...",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-08"
+     },
+     {
+      "text": "Comiendo arroz con huevo pero firmes por la patria",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Huevo 🥚 es gallina 🐓 lo pone y frito se come !!!!",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-07"
+     },
+     {
+      "text": "Pues pida solo huevo, al desayuna, almierzo y cena,",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "No quieres tanto a perro, ve y pídele huevo a el...",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Que se siente a comer arepa de huevo y deje de joder",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-08"
+     },
+     {
+      "text": "habló el que come solo arroz con huevo",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Marañón con huevo y platano frito la nueva generación",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Está boba de que habla si solo como huevo crudo jaaaaa",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "nunca habías comprado huevo",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-08"
+     },
+     {
+      "text": "Pero si es tremenda le gusta más el huevo que la comida",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-08"
+     },
+     {
+      "text": "Marañon con tajadas de plátano y huevo frito deliciosos",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Esos estar peor que el que no sabía que una cubeta de huevo",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-08"
+     },
+     {
+      "text": "Renunciaré a mi arroz con huevo y comeré Marañón con huevo.",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Y quién es ese baboso que siga comiendo arepa de huevo mejor",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-08"
+     },
+     {
+      "text": "Mucho huevo perico todos los días,que mal estás petronio🙏🙏",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-08"
+     },
+     {
+      "text": "La mayoría de las familias colombianas comen arroz con huevo",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Así se sienta sano. A los 75 años el cuerpo es como un huevo",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "firmes la papa está barata y el huevo también",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "SELE ESTÁ ACABANDO EL HUEVO AL PERICO 🦜. HABLO LA CAMARLENGA",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-08"
+     },
+     {
+      "text": "John Miller 13.000..hoy compré dos cartones con huevo 16.000.",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-09"
+     },
+     {
+      "text": "Volverá un huevo a costar 1000 pesos? Ya empezaron los milagros",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-08"
+     },
+     {
+      "text": "mijo usted como que no comprá huevo",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-08"
+     },
+     {
+      "text": "Jjjj es q hacer daños y no pagar , tienen es huevo y de avestruz",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-08"
+     },
+     {
+      "text": "Que balla a comer arepa de huevo al lurucoo es lo único que echo",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-08"
+     }
+    ],
+    "NEGATIVO": [
+     {
+      "text": "Ya se subió el huevo y el dólar en un mes",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-09"
+     },
+     {
+      "text": "el huevo tambien esta caro",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-09"
+     },
+     {
+      "text": "K pata puso ese huevo k hasta podrido salio",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-09"
+     },
+     {
+      "text": "Manda s huevo echate otro chiste cara dela verr",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-08"
+     },
+     {
+      "text": "Todo ahora subió asta el huevo gracias avelardo",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-09"
+     },
+     {
+      "text": "Polvo caro...ha roto más huevo que esquina de cocina",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Deben ser retirados de su cargo para que un huevo podrido",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-09"
+     },
+     {
+      "text": "SABEN UDS. EL SOBRENOMBRE DE IVANMEJIA. EL CARA.DE HUEVO.",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-09"
+     },
+     {
+      "text": "Éste es del proyecto de la arepa de huevo que asco de tipo",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-08"
+     },
+     {
+      "text": "Los gringo comen nuestra carne y nosotros a punta de HUEVO",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-08"
+     },
+     {
+      "text": "La 🥩 por las nubes 20 mil la libra y el huevo caso a 20 mil",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Este huevo muerto que tiene la cara como trasero de león gey",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Y nosotros pagando la energia bien cara....tienen es huevo....",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Así como vamos nos vamos a limentar de puro arroz con huevo 😭💔",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-09"
+     },
+     {
+      "text": "diana ángel Francisco el matemático la sra a comido huevo más caro",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Ya. No sé. Va. Poder comer huevo y la carne bien costosa jajjajjjaa",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Ves a recogerte enana pea tierra con la cara como una arepa de huevo",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-09"
+     },
+     {
+      "text": "Tiene huevo porque, el Huevo salvavidas de la Humanidad Subió de Precio.",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-09"
+     },
+     {
+      "text": "Por esta noticia mañana sube el precio del cilantro y de la arepa huevo.",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Jaa no hay uno más rstupido y ladrón q tú Restrepo valla y como huevo perro",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "hacen dos meses la canasta de huevo a 11.000 pesos ahora está en 16.000",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Comprar comida por qué hay semanas que no comemos sino arroz y huevo y los pañales y leche",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-09"
+     },
+     {
+      "text": "Para que le tapan la cara déjenlo ver si la señora robada un huevo lo mostrará por las calles",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-09"
+     },
+     {
+      "text": "huevo ya subió también hoy mire y si están más caro un cartón en 17 mil",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-09"
+     },
+     {
+      "text": "Subió el huevo subió la papa Sube el agua Subió la luz que más quiere ese catre tripehijuputa 🤡🤡",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "No joda!! Que robaron de frente 4 mil millones. Mandan es huevo esta manada de asquerosa de ladrones",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-08"
+     },
+     {
+      "text": "Mientras le venden energía a ecuador a precio de huevo (ah no, el huevo también se está poniendo caro)",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-09"
+     },
+     {
+      "text": "total... Si lloran por el aumento del huevo es por que por allá no pasa la vaca entonces.",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Ese huevo quiere sal, y se la van a dar; ya quiero verle la cara cuando se lo lleven a donde pertenece 😅😅",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Que no suban ese mínimo pero que bajen la comida que está por las nubes hasta el huevo ni se puede comer ya",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Alvaro Moya Zapata .y con ese notición, como para cuántos días le alcanza a ud para comer arroz con huevo?? 🤡",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-08"
+     },
+     {
+      "text": "pero 12 con el voto fusil diente podrido acepte la verdad usted es un huevo más del común a rascarce las nalgas",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-09"
+     },
+     {
+      "text": "Discursos baratos no sirve representante arepa de huevo. Demuestre su inocencia con pruebas. No con labia barata",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "siempre a sido un burlón siempre no de ahora y eso que viven en la miseria con Clara de huevo y mi así cambian para bien",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Nos vamos a poner bellos comiendo huevo tras de que está cara la carne se la van a llevar hayayay esperemos los 3 doritos",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-08"
+     },
+     {
+      "text": "Pobre puerco compramos el arroz más caro el huevo la yuca el ñame más caro y ése man bajó astá el cerdo 7 y. 8 mil / libras",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-07"
+     },
+     {
+      "text": "Pues todo esta caro si compras o pagas algo no te alcanza para lo demás y la comida arroz huevo y granos para medio subsistir",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-09"
+     },
+     {
+      "text": "cual huevo se comerá usted q se lo subieron pq el q se usa en la cocina están a 11000 en el ara los 30 huevitos",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "comida está más cara, subió el panal de huevo y el desempleo. Pero los firmes por la patria dirán que a ellos no les afecta.",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "estarás llorando tu payaso ahora que vayas de compra y el anaquel de huevo lo encuentres en 23.000 bobon",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     }
+    ],
+    "MIXTO": [
+     {
+      "text": "Buenas tardes Ami me subio de B2. C 14 de adónde acá por Dios me salió plata de la noche ala mañana me volví rica q ni para un huevo tengo que es eso bendiciones wiltoABC feliz noche",
+      "sentiment": "MIXTO",
+      "platform": "Facebook",
+      "month": "2026-08"
+     },
+     {
+      "text": "A qué van allá? Quédese en su casa comiendo arroz con huevo (que es una delicia) preparado por ud y ya. Quieren aparentar ser ricos, pero no pagar lo que cuesta serlo. Uno se arropa hasta donde alcance. 🤡🤡🤡",
+      "sentiment": "MIXTO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     }
+    ]
    }
   },
   "otros": {

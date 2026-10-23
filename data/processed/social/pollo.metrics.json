@@ -1,7 +1,7 @@
 {
  "product": "pollo",
  "segment": "pollo",
- "generatedAt": "2026-10-23T03:42:38.166Z",
+ "generatedAt": "2026-10-23T14:09:48.339Z",
  "period": {
   "from": "2026-07-23 00:00:03",
   "to": "2026-10-22 19:20:11"
@@ -1294,6 +1294,514 @@
       }
      ]
     }
+   },
+   "toneCandidates": {
+    "POSITIVO": [
+     {
+      "text": "Me gusta el pollo asado gracias...dios los bendiga",
+      "sentiment": "POSITIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Me gusta el pollo de Panamá Gratis y con buena monda !",
+      "sentiment": "POSITIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "amo la cocina vegana pero soy muy de comer pollo y carne",
+      "sentiment": "POSITIVO",
+      "platform": "Facebook",
+      "month": "2026-07"
+     },
+     {
+      "text": "800000 mil sólo la comida mensual de mi perrito a base de carne, pollo y croquetas finas 😍",
+      "sentiment": "POSITIVO",
+      "platform": "Facebook",
+      "month": "2026-08"
+     },
+     {
+      "text": "La mejor calidad de pollo de cadenas de comida ever Nadie lo hace como @usuario",
+      "sentiment": "POSITIVO",
+      "platform": "X (Twitter)",
+      "month": "2026-10"
+     },
+     {
+      "text": "ayuno y comida de hoyyyy odio el arroz con pollo pero amo la papa a la huancaína 🖕🏻🖕🏻🖕🏻",
+      "sentiment": "POSITIVO",
+      "platform": "X (Twitter)",
+      "month": "2026-09"
+     },
+     {
+      "text": "Falta lo mejor de donde saldra la plata es como cuando le dicen a uno tienes que comer pollo pero uno no sabe de fonde saldra la plata",
+      "sentiment": "POSITIVO",
+      "platform": "Facebook",
+      "month": "2026-08"
+     },
+     {
+      "text": "Excelente. Combinarlo con comida natural. Caldo de pollo, atún, avena. Lo que más le guste para que se reponga pronto.",
+      "sentiment": "POSITIVO",
+      "platform": "X (Twitter)",
+      "month": "2026-08"
+     },
+     {
+      "text": "yo presté servicio en 1995, cuando no se hablaba del KKAS y la comida era muy buena. Domingo tamal desatuno y espagueti con pollo almuerzo",
+      "sentiment": "POSITIVO",
+      "platform": "Facebook",
+      "month": "2026-09"
+     },
+     {
+      "text": "yo presté servicio en 1995, cuando no se hablaba del KKAS y la comida era muy buena. Domingo tamal desayuno y espagueti con pollo almuerzo",
+      "sentiment": "POSITIVO",
+      "platform": "Facebook",
+      "month": "2026-09"
+     },
+     {
+      "text": "Sabroso . Los animales son para comer. Otra cosa seria si los mataran y los botaran. Oh los maltrataran. Oh esq ustedes no comen res pollo cerdos pescado y entre otras cosas",
+      "sentiment": "POSITIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "10 kg debes darle 100 mg de dixicilina con un protector gastrico omeprasol , 5 mg de omprasol por 21 dias y un complejo que tenga b12 mas alimentacion rica en carnes roja y patas de pollo el caldo",
+      "sentiment": "POSITIVO",
+      "platform": "X (Twitter)",
+      "month": "2026-09"
+     }
+    ],
+    "NEUTRO": [
+     {
+      "text": "Joda y dnd un pollo asado. Costaba 5 mil.",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "en la carcel le van a hacer el pollo asado",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Y la libra de pollo siempre ha estado igual",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "🐓 en Posición de pollo asado estuvo el ...",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "pollo asado es cómo lo ponen a él",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "ud no podrán comer pollo,😁😁😁😁",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-09"
+     },
+     {
+      "text": "Tiene como una fijación con el pollo asado...",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Eso si es verdad ya no puede comer pollo asado",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Entonces a comer pollo en Tunja... a 37 mil...",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Pobre kks no puede comprar pollo muere de hambre",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Si eso es verdad ya ni pollo asado se puede comer",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "a comer marañon con pollo....aplaudan cafres ....",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "si por acá está en 60 el pollo asado o el broaster",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "apie, dejaron de comer pollo por comer mrd..",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-08"
+     },
+     {
+      "text": "Ahora si a comer Marañón con Pollo 🍲 Y aplaudan 😅",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "El recibió el pollo en $22.000 y termino en $38.000",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "El travesti ni come pollo asado que va a saber de eso",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "No se ylusione las viejas que quirran comer pollo nooo",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-07"
+     },
+     {
+      "text": "Pobrecito no tiene como comprar un pollito .. el niño..",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Que lo cojan al kakasgay de pollo asado que el no cobra.",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Si alcanzo a comer bien por q el desagradecido come pollo",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-09"
+     },
+     {
+      "text": "Se hubieran portado bien afuera estuvieran comiendo pollo",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-09"
+     },
+     {
+      "text": "Yo aquí siempre e comprado el pollo asado a 50 mil varitas",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Danna Marcela Madera MOnterrosa será que no compraba pollo",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Es normal el borracho come pollo asado, después de una rasca.",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "La patria milagro Un milagro comer carne y pollo 🐥 🫡🫡🫡🥸🥸",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Compro un buen pollo sin arepa por 20.00en un buen supermercado (?)",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Con esos 800 .000 van a comer pollo del broster del chef jaaaa jaaaa",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-09"
+     },
+     {
+      "text": "Quie vendia pollos a 5000 la mama de ese ijueputa perro que era prete",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Pollo o carne, con zanahoria, habichuelas. Comida natural",
+      "sentiment": "NEUTRO",
+      "platform": "X (Twitter)",
+      "month": "2026-08"
+     },
+     {
+      "text": "En el Ara medio pollo vale 10 mil y el entero 20 ...riquito y sabrosito",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "En el ara el pollo entero con una gaseosa de litro Imedio vale $25.000.",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Oiga yo llevo comiendo pollo muchos años a ese precio 46 o 48 mil y más",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Donde tenían ese pollo a 38 mil porq lo he comprado a 42 mil y pequeños",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Desde el 2023, estoy comprando el pollo asado a 48.000 y sin gaseosa🙄🙄",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "colombiano que se respete come pollo porque es más económico",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-07"
+     },
+     {
+      "text": "Pues entonces no se puede comer más pollo x eso también es maltrato animal",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Ni visitas, y una solo comida,nada de carne,ni pollo, y sol, por la rendija",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-08"
+     },
+     {
+      "text": "Muy altos precios y desmejoraron mucho el pollo y la comida en gral…",
+      "sentiment": "NEUTRO",
+      "platform": "X (Twitter)",
+      "month": "2026-09"
+     },
+     {
+      "text": "Será que llego con pollo asado donde la exmujer y lo mando ya sabemos a que?",
+      "sentiment": "NEUTRO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     }
+    ],
+    "NEGATIVO": [
+     {
+      "text": "el pollo con ese olor a sarna terrible",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-08"
+     },
+     {
+      "text": "Recibioo el.pollo asado en 20 mil y termino en 40 y ahora esta preocupadoo",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "pues tocará no comer pollo asado ni carne la carne está muy cara ya no se puede",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Yo como no como pollo sin la bar hay que asco por my azado que ezte qda feo por dentro",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "El pobrecito ya no le alcanza para comer pollo asado... así terminan los SU+CIALISTAS.",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "El pollo que venden en la olla le ests?saliendo caro le toca dejar de fumar tanto bazuco",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Jssss pobre borracho se fue a comprar pollo y le cobraron caro por ir todo borracho jaaaaa",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Pues eso hace rrato pregunté cuánto vale un pollo en pollo Arana cerete ciempre ha sido bien caro 🫰",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Eso no es verdad ...el pollo sigue al mismo precio ...no sé cuál es el afán de inventar tanta marikada 😡",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "No se preocupe por el pollo caro usted nos dejó comiendo pollo recaro y va a tener que tomar de su misma medicina",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "La salud, y las medicinas,los víveres y la proteína vacuna, el cerdo, el pollo 🐓 , los huevos los lácteos todo está caro",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-09"
+     },
+     {
+      "text": "Sii claro loca htp por eso te subió el sueldo te puso a comer pollo todos lis días y no ruñir hueso la loca sos voz al siquiatrico",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-08"
+     },
+     {
+      "text": "Eso significa huevos a 20 mil el pollo más caro porque todo lo están importando la comida para las aves mejor dicho la patria milagro",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-09"
+     },
+     {
+      "text": "chirrete engaña bobos dizque un pollo 5000 mil eso valía hace 30 años mentiroso usted dejo acabado el país y lleno de delincuencia payaso",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Que los pongan a trabajar pero que les mejoren la alimentación porque es pésima el pollo se los dan crudo los alimentos son muy mal preparados",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-08"
+     },
+     {
+      "text": "Y porque no hicieron esas marchas cuando subió la gasolina la carne el cerdo el pollo , ah como no fueron los huevos, les importo un comino 😅🤔",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Este tipo si que es incoherente, acaso él no saco a millones de colombianos de la pobreza, ya ellos tienen como pagar el pollo al precio que lo pongan",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Por el pollo lleno de hormonas, las pastillas anticonceptivas y toda la comida ultraprocesada que nos clavaron los padres a los de [teléfono]",
+      "sentiment": "NEGATIVO",
+      "platform": "X (Twitter)",
+      "month": "2026-07"
+     },
+     {
+      "text": "Solo se preocupa por lo caro que está el pollo por lo caro que está todo la gasolina también está muy costosa ganas de joder todo lo que que hizo viejo corrupto",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Nojodas yo pence que estaba mas caro un pollo,4 bollos limpios y su ensalada que mas quieres comen 4 personas flamantes que los restaurante no van a ganar nada.",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Pollo asado es muy caro bueno ni tanto por que pollo mismo que se usa para ,eso cuesta 11 mil el kilo más el trabajo que hacen para asado antes no ganan es nada",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Esta vieja ridícula... va a llegar el día que .. en Colombia no se vuelve a comer pollo. Ni carne de res. . Tampoco de cerdo.. porque ella nunca quiere que maten ..",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Yo tratando de seducir a mi crush del trabajo con comida y le dije en estos días hago una pasta con pollo y tocineta que es mi especialidad y me dice que es vegetariano 🤡🤡🤡🤡🤡",
+      "sentiment": "NEGATIVO",
+      "platform": "X (Twitter)",
+      "month": "2026-08"
+     },
+     {
+      "text": "Acabaron el planeta y comimos cArne pollo de lo que se pueda comer y maltrato animal hay cosas graves que están sucediendo en Colombia y se preocupan por la corraleja que tristeza",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Bueno ya que está con lo del PAE. En sincelejo lo invito que pase por Santander y mire la miseria de comida que le dan a los niños frutas dañadas pan duro carne picha y pollo lo mismo",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     },
+     {
+      "text": "Creo que esos ladrones son novatos, otro le da puñaladas o un par de tiros al perrito. Más frentero el perrito que el amo. Ese es el problema de comer mucho pollo. 😄 Qué bello perrito 🥰",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-09"
+     },
+     {
+      "text": "eso me recuerda a la vez que Cardi B habló sobre el pollo y la comida que comió en Colombia sobre como era fresca y buena, a comparación de EEUU que era horrible a comparación y los mantenía enfermos.",
+      "sentiment": "NEGATIVO",
+      "platform": "X (Twitter)",
+      "month": "2026-08"
+     },
+     {
+      "text": "El pollo asado siempre a estado caro En el ara y la olímpica es q los venden mas económico pero en los asaderos siempre esta caro Xq el pollo crudo esta barato a 6000 la libra y 6500 así q sigue lo mismo",
+      "sentiment": "NEGATIVO",
+      "platform": "Facebook",
+      "month": "2026-10"
+     }
+    ],
+    "MIXTO": [
+     {
+      "text": "Muy rica la comida de listo el pollo de Macheta, pero esa dueña es bien jodida con sus meseras, el sabado le hablo tan feo a una de ellas😡",
+      "sentiment": "MIXTO",
+      "platform": "X (Twitter)",
+      "month": "2026-10"
+     },
+     {
+      "text": "Vi un tiktok de una vieja dizque “es porque como sushi con hatsu y ella pollo guisado vd?” Y no habiendo nada más rico y sagrado que la comida criolla ome boba ridícula 😭😭😭😭",
+      "sentiment": "MIXTO",
+      "platform": "X (Twitter)",
+      "month": "2026-08"
+     },
+     {
+      "text": "Carlos y todos los que se gozan de la injusticia saben lo mejor fue que ella misma lo denunció para Balla a comer pollo al otel 5 estrellas dela carsel pa que afine y coja brillo",
+      "sentiment": "MIXTO",
+      "platform": "Facebook",
+      "month": "2026-09"
+     }
+    ]
    }
   },
   "otros": {
