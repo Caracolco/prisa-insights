@@ -1,0 +1,188 @@
+{
+ "segment": "Comprador del hogar",
+ "size": "14.3 M personas (64.4% de la población TGI)",
+ "source": "Colombia TGI (Español) TGI CO 2026 R2 - Personas",
+ "profile": {
+  "headline": "Equilibrio de género de 45 años o más, con más peso en Bogotá.",
+  "gender": [
+   "Masculino: 49.5% (índice 104)",
+   "Femenino: 50.5% (índice 96)"
+  ],
+  "age": [
+   "12–17: 1.4% (índice 13)",
+   "18–24: 8.7% (índice 60)",
+   "25–34: 24.3% (índice 110)",
+   "35–44: 22.5% (índice 121)",
+   "45–54: 18.3% (índice 127)",
+   "55–64: 19.6% (índice 126)",
+   "65+: 5.3% (índice 133)"
+  ],
+  "nse": [
+   "Estrato 2: 38.7% (índice 90)",
+   "Estrato 3: 36.8% (índice 103)",
+   "Estrato 4: 16% (índice 116)",
+   "Estrato 5 y 6: 8.6% (índice 112)"
+  ],
+  "region": [
+   "Bogotá: 27.7% (índice 109)",
+   "Antioquia: 14.6% (índice 95)",
+   "Pacífico: 16.1% (índice 102)",
+   "Oriente: 10.7% (índice 97)",
+   "Caribe: 13.3% (índice 95)",
+   "Café: 5.8% (índice 96)",
+   "Andina: 11.9% (índice 94)"
+  ],
+  "education": [
+   "Sin estudios: 0.5% (índice 101)",
+   "Primaria: 1.4% (índice 36)",
+   "Bachillerato: 18.2% (índice 72)",
+   "Técnico o tecnológico: 29.4% (índice 107)",
+   "Universitario: 40.7% (índice 117)",
+   "Posgrado: 9.2% (índice 133)"
+  ],
+  "household": [
+   "Jefe de familia-Sí: 88.3%",
+   "Entrevistado: 100%"
+  ]
+ },
+ "activities": [
+  "Escuchar música: 53.4% (índice 99)",
+  "Comer en un restaurante: 39.4% (índice 103)",
+  "Salir a caminar/ senderismo: 35% (índice 105)",
+  "Cocinar/ actividades culinarias: 34.8% (índice 107)",
+  "Ir a centros comerciales: 29.2% (índice 102)",
+  "Ir a la playa/ laguna/ río: 23.2% (índice 101)",
+  "Salir de la ciudad: 23.2% (índice 107)",
+  "Leer libros: 21.9% (índice 108)"
+ ],
+ "sports": [
+  "Actividades más frecuentes/ de rutina: Fútbol: 21.5% (índice 100)",
+  "Actividades más frecuentes/ de rutina: Atletismo: 14.2% (índice 99)",
+  "Actividades más frecuentes/ de rutina: Ciclismo: 13.5% (índice 104)",
+  "Actividades más frecuentes/ de rutina: Baloncesto: 13.4% (índice 96)",
+  "Actividades más frecuentes/ de rutina: Otros deportes: 9% (índice 109)"
+ ],
+ "vacations": [
+  "Playa/ resort/ balneario: 26.2% (índice 118)",
+  "Descanso en la ciudad: 21.6% (índice 113)",
+  "Lagos y montañas: 11.3% (índice 118)",
+  "Parque temático: 9.1% (índice 118)"
+ ],
+ "opinions": [
+  "Decide sobre productos financieros en su familia: 31.6% (índice 136)",
+  "Se siente seguro financieramente: 20.7% (índice 119)",
+  "Paga más por una buena bebida: 21.3% (índice 114)",
+  "Le gusta probar nuevas bebidas: 19.7% (índice 114)",
+  "Busca un carro divertido de manejar: 27.2% (índice 109)",
+  "Planea y reserva viajes por internet: 40.4% (índice 107)",
+  "Se hace chequeos médicos preventivos: 24.1% (índice 109)",
+  "Considera poco nutritiva la comida rápida: 24.3% (índice 108)"
+ ],
+ "sharedOpinions": [
+  "Disfruta el tiempo en familia: 51.7% (índice 101)",
+  "Persiste aunque no triunfe a la primera: 47.8% (índice 103)",
+  "Aprovecha las oportunidades cuando surgen: 46.7% (índice 102)",
+  "Evita endeudarse: 46.6% (índice 103)",
+  "Considera clave estar bien informado: 45.8% (índice 103)"
+ ],
+ "futurePlans": [
+  "Reformar el hogar: 19.4% (índice 120)",
+  "Emprender un negocio propio: 18.2% (índice 110)",
+  "Cambiar de trabajo: 13.6% (índice 104)",
+  "Comprar una nueva vivienda: 9.9% (índice 121)",
+  "Comprar su primer automóvil: 10.7% (índice 102)"
+ ],
+ "radio": {
+  "reach": "71% escucha radio (índice 101)",
+  "best": "Mejor franja: L–V 06–11 (30.7%, índice 111)",
+  "stations": [
+   "Caracol: 19.9% (índice 105)",
+   "Bésame: 19.1% (índice 108)",
+   "La FM: 16.8% (índice 104)",
+   "Blu: 16.3% (índice 112)",
+   "Olímpica: 15.6% (índice 103)",
+   "Tropicana: 13.3% (índice 100)",
+   "La Mega: 12.5% (índice 98)",
+   "Candela: 7.4% (índice 110)"
+  ],
+  "programs": [
+   "Programas sobre fútbol-Noticias y comentarios: 10.9% (índice 115)",
+   "Noticias del tránsito: 11.6% (índice 115)",
+   "Noticias internacionales: 16.4% (índice 114)",
+   "Política: 10.3% (índice 114)",
+   "Autos: 6.9% (índice 114)",
+   "Noticias nacionales: 20.5% (índice 114)"
+  ],
+  "places": [
+   "En mi hogar: 40.4% (índice 107)",
+   "En el trabajo: 17.2% (índice 112)",
+   "En el automóvil: 16.9% (índice 113)",
+   "En transporte público: 6.2% (índice 106)"
+  ]
+ },
+ "prisaBrands": [
+  "Bésame: 19.1% (índice 108)",
+  "Radioacktiva: 3.4% (índice 107)",
+  "Caracol Radio: 19.9% (índice 105)",
+  "Los40: 4.2% (índice 103)",
+  "Tropicana: 13.3% (índice 100)"
+ ],
+ "digital": {
+  "social": [
+   "Facebook: 67.8% (índice 101)",
+   "Instagram: 52.4% (índice 95)",
+   "YouTube: 51.3% (índice 97)",
+   "TikTok: 40.6% (índice 93)",
+   "X: 15.3% (índice 103)",
+   "Pinterest: 13.4% (índice 91)",
+   "LinkedIn: 12.7% (índice 110)",
+   "Threads: 3.3% (índice 106)"
+  ],
+  "apps": [
+   "Usó-U30d: Bancos: 50.6% (índice 109)",
+   "Usó-U30d: Red social: 30.8% (índice 95)",
+   "Usó-U30d: Música: 26.8% (índice 92)",
+   "Google Maps: 22.5% (índice 103)",
+   "Usó-U30d: Compras: 19.6% (índice 101)",
+   "Rappi: 17.7% (índice 97)"
+  ],
+  "internetPeriods": [
+   "06–11: 47.1% (índice 100)",
+   "12–14: 46.1% (índice 98)",
+   "15–19: 65.6% (índice 99)",
+   "20–23: 49.8% (índice 99)",
+   "00–05: 7.1% (índice 93)"
+  ]
+ },
+ "video": [
+  "Netflix: 41.5% (índice 101)",
+  "Disney+: 20.6% (índice 95)",
+  "Prime Video: 15.2% (índice 98)",
+  "HBO Max: 13.9% (índice 93)",
+  "YouTube videos pagos: 9.7% (índice 96)",
+  "Claro TV+: 7.6% (índice 110)"
+ ],
+ "podcast": {
+  "listens": "37.8%",
+  "topics": [
+   "Estilo de Vida y Salud: 10.7% (índice 105)",
+   "Música: 9.2% (índice 103)",
+   "Tecnología: 8.3% (índice 105)",
+   "Ficción/ Historias: 8.1% (índice 109)",
+   "Comedia: 7.9% (índice 100)",
+   "Sociedad y Cultura: 7.8% (índice 108)"
+  ]
+ },
+ "contentThemes": [
+  "Noticias nacionales (Radio): 20.5% (índice 114)",
+  "Noticias nacionales/ noticias locales (Total) (Radio): 25.1% (índice 112)",
+  "Noticias internacionales (Radio): 16.4% (índice 114)",
+  "Noticias locales (Radio): 17.8% (índice 112)",
+  "Programas sobre fútbol-Noticias y comentarios (Radio): 10.9% (índice 115)",
+  "Noticias del tránsito (Radio): 11.6% (índice 115)",
+  "Noticias y Política (Podcast): 7.4% (índice 118)",
+  "Finanzas/ negocios/ economía (Radio): 12.7% (índice 113)"
+ ],
+ "socialListening": null,
+ "crossSourceInsights": []
+}

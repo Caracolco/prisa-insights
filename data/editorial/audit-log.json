@@ -1,0 +1,306 @@
+{
+  "description": "Auditoría manual (lectura humana) de muestras aleatorias de la clasificación automática. Cada ronda usa una muestra NUEVA tras ajustar reglas. 'ok' = coincidencias con la lectura humana.",
+  "auditedAt": "2026-10-22",
+  "rounds": [
+    {
+      "round": 1,
+      "check": "relevancia: RELEVANTE",
+      "product": "huevo",
+      "sample": 50,
+      "ok": 34,
+      "systematicErrors": [
+        "modismos ('costando un huevo', 'no sabe freír un huevo', 'más perdido que huevo frito en ceviche', 'pagar a huevo')",
+        "'arepa de huevo' como burla a un político",
+        "artículos que mencionan huevo de forma lateral"
+      ],
+      "action": "nuevas reglas de uso figurado y exigencia de mención en titular/entrada para medios"
+    },
+    {
+      "round": 1,
+      "check": "relevancia: NO_RELEVANTE",
+      "product": "huevo",
+      "sample": 30,
+      "ok": 29
+    },
+    {
+      "round": 1,
+      "check": "relevancia: RELEVANTE",
+      "product": "pollo",
+      "sample": 50,
+      "ok": 38,
+      "systematicErrors": [
+        "noticias de aperturas de restaurantes/franquicias",
+        "promociones (tienda de mascotas, 'pollo week')",
+        "regla propia errónea: 'ni carne ni pollo' se usaba también en sentido literal"
+      ],
+      "action": "filtro de noticias de negocio y promociones; se eliminó la regla errónea"
+    },
+    {
+      "round": 1,
+      "check": "relevancia: NO_RELEVANTE",
+      "product": "pollo",
+      "sample": 30,
+      "ok": 29
+    },
+    {
+      "round": 2,
+      "check": "relevancia: RELEVANTE",
+      "product": "huevo",
+      "sample": 50,
+      "ok": 35,
+      "systematicErrors": [
+        "comentarios políticos/insultos donde el producto aparece de pasada",
+        "comparaciones escritas con 'q'"
+      ],
+      "action": "regla de contexto hostil (pasa a DUDOSO si no hay señal de compra/preparación); ventana de señal 90→60 caracteres"
+    },
+    {
+      "round": 2,
+      "check": "relevancia: RELEVANTE",
+      "product": "pollo",
+      "sample": 50,
+      "ok": 38,
+      "systematicErrors": [
+        "comentarios sobre cárceles/presos",
+        "artículos con el producto fuera del titular"
+      ],
+      "action": "misma regla de contexto hostil; medios exigen el producto en los primeros 200 caracteres"
+    },
+    {
+      "round": 3,
+      "check": "relevancia: RELEVANTE",
+      "product": "huevo",
+      "sample": 50,
+      "ok": 36,
+      "systematicErrors": [
+        "modismos colombianos: 'huevo fiscal' (hueco), 'le falta huevo', 'lave huevo', 'da para fritar un huevo'"
+      ],
+      "action": "nuevas reglas de modismos"
+    },
+    {
+      "round": 3,
+      "check": "relevancia: RELEVANTE",
+      "product": "pollo",
+      "sample": 50,
+      "ok": 43
+    },
+    {
+      "round": 1,
+      "check": "sentimiento",
+      "product": "huevo",
+      "sample": 30,
+      "ok": 15,
+      "systematicErrors": [
+        "quejas sin palabras evaluativas quedaban NEUTRO",
+        "insultos/tono hostil no leídos como negativos",
+        "😭 en contexto fan leído como negativo",
+        "ironía con precios no detectada"
+      ],
+      "action": "léxico de carencia, tono hostil, ironía con elogio + precio, 😭 neutralizado"
+    },
+    {
+      "round": 1,
+      "check": "sentimiento",
+      "product": "pollo",
+      "sample": 30,
+      "ok": 20
+    },
+    {
+      "round": 2,
+      "check": "sentimiento",
+      "product": "huevo",
+      "sample": 30,
+      "ok": 19,
+      "systematicErrors": [
+        "gusto en 3ª persona",
+        "'es un lujo', 'horroroso', 'adulterada'",
+        "risa ante cifras de precio"
+      ],
+      "action": "léxico ampliado; preguntas solo NEUTRO si no hay señal negativa"
+    },
+    {
+      "round": 2,
+      "check": "sentimiento",
+      "product": "pollo",
+      "sample": 30,
+      "ok": 22
+    },
+    {
+      "round": 3,
+      "check": "sentimiento",
+      "product": "huevo",
+      "sample": 30,
+      "ok": 18,
+      "systematicErrors": [
+        "'ricos' (gente rica) leído como sabor",
+        "faltaba 'me gusta', 'pura calidad', 'echados a perder', 'golpe al bolsillo'"
+      ],
+      "action": "desambiguación de 'ricos', léxico ampliado, contrastes 'aun k'"
+    },
+    {
+      "round": 3,
+      "check": "sentimiento",
+      "product": "pollo",
+      "sample": 30,
+      "ok": 25
+    },
+    {
+      "round": 4,
+      "check": "sentimiento",
+      "product": "huevo",
+      "sample": 30,
+      "ok": 22,
+      "systematicErrors": [
+        "consejos informativos leídos como negativos",
+        "'salmonela' con una sola l"
+      ],
+      "action": "corrección ortográfica de la regla; se acepta el límite y se publica la precisión"
+    },
+    {
+      "round": 4,
+      "check": "sentimiento",
+      "product": "pollo",
+      "sample": 30,
+      "ok": 25
+    },
+    {
+      "round": 1,
+      "check": "temáticas",
+      "product": "huevo",
+      "sample": 30,
+      "ok": 22,
+      "systematicErrors": [
+        "'cara' (rostro) contada como precio",
+        "'arroz con huevo' como subsistencia sin señal de carencia"
+      ],
+      "action": "máximo 3 temáticas por mención; subsistencia exige carencia; desambiguación de 'cara'"
+    },
+    {
+      "round": 1,
+      "check": "temáticas",
+      "product": "pollo",
+      "sample": 30,
+      "ok": 20,
+      "systematicErrors": [
+        "'perro caliente' como mascota",
+        "artículos con 6–7 etiquetas",
+        "plantillas 'comida fav:'"
+      ]
+    },
+    {
+      "round": 2,
+      "check": "temáticas",
+      "product": "huevo",
+      "sample": 30,
+      "ok": 25
+    },
+    {
+      "round": 2,
+      "check": "temáticas",
+      "product": "pollo",
+      "sample": 30,
+      "ok": 26
+    },
+    {
+      "round": 1,
+      "check": "señal mascotas (mención amplia)",
+      "product": "pollo",
+      "sample": 40,
+      "ok": 20,
+      "note": "20 de 40 menciones de mascotas hablan realmente de alimentar a la mascota con pollo"
+    },
+    {
+      "round": 2,
+      "check": "señal mascotasAlimentacion (indicador refinado)",
+      "product": "pollo",
+      "sample": 30,
+      "ok": 19,
+      "note": "precisión 63 %: se publica el volumen estimado = detectadas × 0,63"
+    },
+    {
+      "round": 5,
+      "check": "sentimiento — auditoría INDEPENDIENTE estratificada (muestra nueva)",
+      "product": "huevo",
+      "sample": 52,
+      "ok": 31,
+      "byClass": {
+        "POSITIVO": "8/13",
+        "NEGATIVO": "13/13",
+        "NEUTRO": "7/13",
+        "MIXTO": "3/13"
+      },
+      "weightedByRealDistribution": 0.67,
+      "systematicErrors": [
+        "MIXTO suele ser una queja con alguna palabra positiva",
+        "NEUTRO incluye quejas políticas sin adjetivos",
+        "POSITIVO incluye sarcasmo"
+      ],
+      "action": "sentimiento publicado solo como lectura exploratoria; no hay KPI de sentimiento"
+    },
+    {
+      "round": 5,
+      "check": "sentimiento — auditoría INDEPENDIENTE estratificada (muestra nueva)",
+      "product": "pollo",
+      "sample": 52,
+      "ok": 31,
+      "byClass": {
+        "POSITIVO": "9/13",
+        "NEGATIVO": "10/13",
+        "NEUTRO": "10/13",
+        "MIXTO": "2/13"
+      },
+      "weightedByRealDistribution": 0.74,
+      "action": "sentimiento publicado solo como lectura exploratoria"
+    },
+    {
+      "round": 3,
+      "check": "temática Familia y hogar",
+      "product": "huevo",
+      "note": "\"canasta familiar\" (precio) se contaba como familia; corregido antes de publicar"
+    }
+  ],
+  "final": {
+    "relevancia": {
+      "huevo": 0.72,
+      "pollo": 0.86
+    },
+    "noRelevante": {
+      "huevo": 0.97,
+      "pollo": 0.97
+    },
+    "sentimiento": {
+      "huevo": 0.67,
+      "pollo": 0.74
+    },
+    "tematicas": {
+      "huevo": 0.83,
+      "pollo": 0.87
+    },
+    "mascotasAlimentacion": {
+      "pollo": 0.63
+    },
+    "sentimientoNota": "Estimado ponderando la precisión por clase de la auditoría independiente estratificada (ronda 5) con la distribución real de clases. Acuerdo estratificado bruto: 60 % en ambos. Objetivo ≥ 80 % no alcanzado: el sentimiento se muestra como lectura exploratoria.",
+    "sentimentStratifiedRaw": {
+      "huevo": 0.6,
+      "pollo": 0.6
+    },
+    "mascotasAlimentacionNota": "Precisión 63 % (19/30). Se publica como SEÑAL EMERGENTE, no como hallazgo consolidado. Compra explícita para la mascota: muy baja (ver métricas)."
+  },
+  "limitations": [
+    "Clasificación por reglas contextuales, no por un modelo de lenguaje: el humor, la ironía fina y el slang regional siguen siendo la principal fuente de error, sobre todo en huevo (conversación colombiana muy politizada).",
+    "Las métricas principales usan solo menciones cuyo país es Colombia. Las menciones sin país se reportan como \"país no identificado\" y nunca se asumen colombianas; otros países son contexto secundario.",
+    "Las cifras sociales se leen como proporciones de la conversación relevante, no como incidencia en la población."
+  ],
+  "sentimentStratified": {
+    "huevo": {
+      "agreement": 0.6,
+      "weighted": 0.67,
+      "sample": 52
+    },
+    "pollo": {
+      "agreement": 0.6,
+      "weighted": 0.74,
+      "sample": 52
+    }
+  }
+}

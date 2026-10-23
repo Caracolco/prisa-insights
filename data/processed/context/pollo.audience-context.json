@@ -1,0 +1,235 @@
+{
+ "segment": "Consumidor de pollo 2+ veces por semana",
+ "size": "12.5 M personas (56% de la población TGI)",
+ "source": "Colombia TGI (Español) TGI CO 2026 R2 - Personas",
+ "profile": {
+  "headline": "Mayoría femenina de 35 a 64 años, con más peso en Oriente.",
+  "gender": [
+   "Masculino: 42.8% (índice 90)",
+   "Femenino: 57.2% (índice 109)"
+  ],
+  "age": [
+   "12–17: 12.4% (índice 112)",
+   "18–24: 12.5% (índice 87)",
+   "25–34: 19.7% (índice 89)",
+   "35–44: 18.8% (índice 102)",
+   "45–54: 15.5% (índice 108)",
+   "55–64: 16.6% (índice 107)",
+   "65+: 4.6% (índice 116)"
+  ],
+  "nse": [
+   "Estrato 2: 42.4% (índice 99)",
+   "Estrato 3: 35.5% (índice 100)",
+   "Estrato 4: 14.2% (índice 103)",
+   "Estrato 5 y 6: 7.8% (índice 103)"
+  ],
+  "region": [
+   "Bogotá: 25.7% (índice 102)",
+   "Antioquia: 13.6% (índice 89)",
+   "Pacífico: 16.1% (índice 102)",
+   "Oriente: 12.7% (índice 116)",
+   "Caribe: 13.5% (índice 97)",
+   "Café: 5.8% (índice 98)",
+   "Andina: 12.5% (índice 98)"
+  ],
+  "education": [
+   "Sin estudios: 0.2% (índice 40)",
+   "Primaria: 4.2% (índice 108)",
+   "Bachillerato: 25.1% (índice 99)",
+   "Técnico o tecnológico: 27.6% (índice 101)",
+   "Universitario: 35.1% (índice 101)",
+   "Posgrado: 6.7% (índice 96)"
+  ],
+  "household": [
+   "Jefe de familia-Sí: 61.2%",
+   "Entrevistado: 63.4%"
+  ]
+ },
+ "activities": [
+  "Escuchar música: 55.4% (índice 103)",
+  "Comer en un restaurante: 40.3% (índice 105)",
+  "Salir a caminar/ senderismo: 35.7% (índice 107)",
+  "Cocinar/ actividades culinarias: 34% (índice 104)",
+  "Ir a centros comerciales: 30.9% (índice 108)",
+  "Ir a la playa/ laguna/ río: 24.6% (índice 107)",
+  "Salir de la ciudad: 23.3% (índice 107)",
+  "Cantar: 21.2% (índice 103)"
+ ],
+ "sports": [
+  "Actividades más frecuentes/ de rutina: Fútbol: 20.7% (índice 96)",
+  "Actividades más frecuentes/ de rutina: Atletismo: 14.4% (índice 101)",
+  "Actividades más frecuentes/ de rutina: Baloncesto: 13.9% (índice 99)",
+  "Actividades más frecuentes/ de rutina: Ciclismo: 12.4% (índice 96)",
+  "Actividades más frecuentes/ de rutina: Natación: 9% (índice 114)"
+ ],
+ "vacations": [
+  "Playa/ resort/ balneario: 22.8% (índice 103)",
+  "Descanso en la ciudad: 19.8% (índice 104)",
+  "Lagos y montañas: 9.4% (índice 99)",
+  "Parque temático: 7.9% (índice 103)"
+ ],
+ "opinions": [
+  "Planifica sus compras de alto valor: 31.2% (índice 104)",
+  "Disfruta celebrar Navidad y Año Nuevo: 43.8% (índice 102)",
+  "Paga más por higiene personal de calidad: 30.5% (índice 102)",
+  "Disfruta el tiempo en familia: 51.7% (índice 101)",
+  "Se considera una persona creativa: 34.4% (índice 101)",
+  "Celebra Amor y Amistad: 30.4% (índice 102)",
+  "Evita endeudarse: 45.6% (índice 101)",
+  "Le atrae viajar al exterior: 44.4% (índice 100)"
+ ],
+ "sharedOpinions": [
+  "Disfruta el tiempo en familia: 51.7% (índice 101)",
+  "Persiste aunque no triunfe a la primera: 46.7% (índice 100)",
+  "La música es central en su vida: 45.9% (índice 99)",
+  "Aprovecha las oportunidades cuando surgen: 45.7% (índice 100)",
+  "Evita endeudarse: 45.6% (índice 101)"
+ ],
+ "futurePlans": [
+  "Emprender un negocio propio: 18% (índice 109)",
+  "Reformar el hogar: 17.1% (índice 106)",
+  "Comprar su primera vivienda: 11.3% (índice 110)",
+  "Viajar al exterior por primera vez: 10% (índice 104)",
+  "Casarse: 7.2% (índice 103)"
+ ],
+ "radio": {
+  "reach": "71.6% escucha radio (índice 102)",
+  "best": "Mejor franja: L–V 06–11 (31.9%, índice 116)",
+  "stations": [
+   "Caracol: 17.7% (índice 94)",
+   "Bésame: 17.1% (índice 96)",
+   "La FM: 16.1% (índice 100)",
+   "Olímpica: 15.8% (índice 104)",
+   "Blu: 14.6% (índice 101)",
+   "Tropicana: 13.6% (índice 102)",
+   "La Mega: 13.5% (índice 106)",
+   "Candela: 6.4% (índice 95)"
+  ],
+  "programs": [
+   "Comida y bebida/ cocina: 11% (índice 124)",
+   "Belleza/ estética: 10% (índice 124)",
+   "Programas religiosos: 7.5% (índice 123)",
+   "Decoración y hogar: 7.7% (índice 122)",
+   "Humor: 17.5% (índice 122)",
+   "Programas hablados/ entrevistas: 10.6% (índice 122)"
+  ],
+  "places": [
+   "En mi hogar: 39.5% (índice 105)",
+   "En el automóvil: 16.4% (índice 110)",
+   "En el trabajo: 14.2% (índice 93)",
+   "En transporte público: 7.3% (índice 125)"
+  ]
+ },
+ "prisaBrands": [
+  "Radioacktiva: 3.4% (índice 107)",
+  "Tropicana: 13.6% (índice 102)",
+  "Los40: 4.1% (índice 100)",
+  "Bésame: 17.1% (índice 96)",
+  "Caracol Radio: 17.7% (índice 94)"
+ ],
+ "digital": {
+  "social": [
+   "Facebook: 70.3% (índice 105)",
+   "YouTube: 58.7% (índice 111)",
+   "Instagram: 58.1% (índice 106)",
+   "TikTok: 47.9% (índice 109)",
+   "X: 16.8% (índice 113)",
+   "Pinterest: 16.5% (índice 111)",
+   "LinkedIn: 13.1% (índice 113)",
+   "Snapchat: 3.8% (índice 117)"
+  ],
+  "apps": [
+   "Usó-U30d: Bancos: 49% (índice 105)",
+   "Usó-U30d: Red social: 37.2% (índice 115)",
+   "Usó-U30d: Música: 31.5% (índice 108)",
+   "Google Maps: 24.4% (índice 112)",
+   "Usó-U30d: Compras: 20.5% (índice 106)",
+   "Rappi: 20.3% (índice 111)"
+  ],
+  "internetPeriods": [
+   "06–11: 49.2% (índice 105)",
+   "12–14: 47.4% (índice 101)",
+   "15–19: 69.8% (índice 105)",
+   "20–23: 53.9% (índice 107)",
+   "00–05: 7.9% (índice 103)"
+  ]
+ },
+ "video": [
+  "Netflix: 44% (índice 107)",
+  "Disney+: 22.6% (índice 103)",
+  "Prime Video: 17% (índice 110)",
+  "HBO Max: 16.6% (índice 112)",
+  "YouTube videos pagos: 10.6% (índice 105)",
+  "Claro TV+: 7.5% (índice 108)"
+ ],
+ "podcast": {
+  "listens": "37.4%",
+  "topics": [
+   "Estilo de Vida y Salud: 12.2% (índice 120)",
+   "Música: 10% (índice 113)",
+   "Comedia: 9% (índice 113)",
+   "Ficción/ Historias: 8.3% (índice 112)",
+   "Educación: 8.2% (índice 114)",
+   "Tecnología: 8% (índice 101)"
+  ]
+ },
+ "contentThemes": [
+  "Humor (Radio): 17.5% (índice 122)",
+  "Noticias locales (Radio): 19.1% (índice 120)",
+  "Noticias nacionales/ noticias locales (Total) (Radio): 26.2% (índice 117)",
+  "Comida y bebida/ cocina (Radio): 11% (índice 124)",
+  "Noticias nacionales (Radio): 21.2% (índice 118)",
+  "Siempre veo/ regularmente: Películas (Video online): 35.8% (índice 113)",
+  "Belleza/ estética (Radio): 10% (índice 124)",
+  "Salud/ medicina/ calidad de vida (Radio): 13.1% (índice 121)"
+ ],
+ "socialListening": {
+  "market": "Colombia (solo menciones con país Colombia; otros mercados = contexto)",
+  "headline": "En Colombia, el pollo se conversa entre la receta y lo que cuesta.",
+  "period": {
+   "from": "2026-07-23 00:00:03",
+   "to": "2026-10-22 19:20:11"
+  },
+  "colombiaMentions": 436,
+  "topics": [
+   "Recetas y preparación: 35.8% (156 menciones en Colombia)",
+   "Precio y costo de vida: 30.3% (132 menciones en Colombia)",
+   "Comida rápida y domicilios: 8% (35 menciones en Colombia)",
+   "Antojo y placer: 7.8% (34 menciones en Colombia)",
+   "Proteína, nutrición y fitness: 6% (26 menciones en Colombia)",
+   "Origen: criollo, campo y producción: 5% (22 menciones en Colombia)"
+  ],
+  "tensions": [
+   "tensión — Uno de los precios que mide la canasta: El pollo aparece en la lista de lo que subió, junto a la gasolina, la carne y el mercado; 25 % de esas menciones son políticas.",
+   "motivador — La proteína de la cocina diaria: Sudado, asado, en sopa, apanado o con arroz: la conversación colombiana sobre pollo es ante todo de preparación.",
+   "motivador — Antojo y salida: Pollo asado, broaster y frito aparecen como gusto y como plan fuera de casa.",
+   "motivador — Comida lista y asaderos: Asaderos, broaster y comida rápida compiten con el pollo que se cocina en casa.",
+   "motivador — Proteína para comer bien: Una parte menor de la conversación lo nombra como proteína de la dieta y del plato equilibrado."
+  ],
+  "occasions": [
+   "Almuerzo: 15 menciones en Colombia"
+  ],
+  "insights": [
+   "El pollo asado es una medida del costo de vida. 102 menciones colombianas (23,4 %) hablan de pollo asado, broaster o asadero: lo que cuesta, dónde se compra y cuándo se come. Su precio se cita como prueba de que “todo subió”."
+  ],
+  "emergentSignals": [
+   "[Señal emergente, confianza baja] Las mascotas aparecen como un nuevo contexto de consumo dentro del hogar. Detectadas: Colombia 8, otros países 140, sin país 311. Esta conversación aparece con fuerza fuera de Colombia (140 menciones en otros países y 311 sin país identificado), pero todavía tiene poca evidencia en Colombia (8 menciones)."
+  ],
+  "otherMarketsContext": [
+   "El pollo como “comida favorita” es una tendencia de otros mercados. 156 menciones en otros países (y 353 sin país) lo declaran comida favorita en tendencias de “preséntate”; en Colombia solo 9.",
+   "El pollo fitness habla sobre todo fuera de Colombia. 191 menciones en otros países lo asocian con proteína, gimnasio o masa muscular; en Colombia, 11.",
+   "Las quejas de pollo en mal estado son de otros mercados. 111 menciones en otros países hablan de pollo en mal estado en supermercados; en Colombia, 1."
+  ],
+  "sentiment": "lectura exploratoria (precisión auditada por debajo del 80 %): no usar como KPI",
+  "excerpts": [
+   "“Denpor si yo no soy fanatico al pollo asado megusta mas sudado o si lo como asado lo hago yo mismojjejej”",
+   "“Si el pollo subio de precio reclamele al kakas , que subio el.salario minimo y las empresas paRa sostener empleados reajustaron el precio y ahora toca asumir ese costo al CONSUMIDOR, y asi pasara con todos los productos…”",
+   "“Alli en el dorado, hay un restaurante chino, el corral, pollo KFC, etc que vende a precio normales que en otras partes, estan son buenas opciones para comer.”"
+  ]
+ },
+ "crossSourceInsights": [
+  "El presupuesto pesa en la conversación del pollo. TGI DICE: 37,5 % dice que hoy gasta con más cuidado que antes (índice 99). SOCIAL OBSERVA (Colombia): En Colombia, 30,3 % de la conversación sobre pollo habla de precio (132 menciones). LECTURA: El cuidado del gasto se ve en lo que la gente dice: el pollo se discute como parte de lo que cuesta comer.",
+  "El pollo es el lienzo de quien cocina. TGI DICE: 28,5 % afirma que le encanta cocinar (índice 97). SOCIAL OBSERVA (Colombia): 35,8 % de la conversación colombiana es sobre recetas y preparación (156 menciones). LECTURA: Recetas colombianas simples son el formato que la audiencia ya busca.",
+  "La salud aparece, pero en segundo plano. TGI DICE: 20,8 % revisa el contenido nutricional de lo que come (índice 95). SOCIAL OBSERVA (Colombia): 6 % de la conversación colombiana vincula el pollo con proteína o dieta (26 menciones). LECTURA: La preocupación por el bienestar también aparece espontáneamente, aunque pesa menos que el precio y la receta."
+ ]
+}

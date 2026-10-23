@@ -1,0 +1,48 @@
+{
+  "_doc": "Cruces TGI + Social Listening (v2). Formato: TGI DICE / SOCIAL OBSERVA / LECTURA. Solo se publican si hay evidencia en AMBAS fuentes: TGI (penetración ≥ minPen) y Social en COLOMBIA (n ≥ minN y share ≥ minShare). La social se lee de geo.co.",
+  "rules": { "minPen": 15, "minN": 20, "minShare": 3 },
+  "items": [
+    {
+      "product": "huevo", "id": "gasto", "tgi": "Hoy gasta con más cuidado que antes", "social": "topics.precio",
+      "title": "El cuidado del gasto no es solo declarado.",
+      "tgiSays": "{{tgi.pen|pct}} del segmento dice que hoy gasta con más cuidado que antes (índice {{tgi.aff|int}}).",
+      "socialObserves": "El precio es la temática nº 1 en Colombia: {{social.share|pct}} de la conversación relevante ({{social.n|int}} menciones).",
+      "reading": "La preocupación por el gasto organiza también la conversación espontánea: cada mensaje sobre huevo se leerá en clave de presupuesto."
+    },
+    {
+      "product": "huevo", "id": "cocina", "tgi": "Le encanta cocinar", "social": "topics.recetas",
+      "title": "La cocina diaria es el escenario natural del huevo.",
+      "tgiSays": "{{tgi.pen|pct}} afirma que le encanta cocinar (índice {{tgi.aff|int}}).",
+      "socialObserves": "{{social.share|pct}} de la conversación colombiana habla de preparaciones concretas: frito, revuelto, perico, arepa ({{social.n|int}} menciones).",
+      "reading": "El gusto por cocinar se expresa en recetas cotidianas: la marca tiene permiso de entrar siendo útil antes que publicitaria."
+    },
+    {
+      "product": "huevo", "id": "familia", "tgi": "Disfruta el tiempo en familia", "social": "topics.familia",
+      "title": "El huevo se come en familia.",
+      "tgiSays": "{{tgi.pen|pct}} disfruta el tiempo en familia (índice {{tgi.aff|int}}).",
+      "socialObserves": "{{social.share|pct}} de la conversación colombiana nombra hijos, mamá, abuela o la casa ({{social.n|int}} menciones).",
+      "reading": "La familia no es solo un valor declarado: es el escenario donde aparece el huevo en la conversación."
+    },
+    {
+      "product": "pollo", "id": "gasto", "tgi": "Hoy gasta con más cuidado que antes", "social": "topics.precio",
+      "title": "El presupuesto pesa en la conversación del pollo.",
+      "tgiSays": "{{tgi.pen|pct}} dice que hoy gasta con más cuidado que antes (índice {{tgi.aff|int}}).",
+      "socialObserves": "En Colombia, {{social.share|pct}} de la conversación sobre pollo habla de precio ({{social.n|int}} menciones).",
+      "reading": "El cuidado del gasto se ve en lo que la gente dice: el pollo se discute como parte de lo que cuesta comer."
+    },
+    {
+      "product": "pollo", "id": "cocina", "tgi": "Le encanta cocinar", "social": "topics.recetas",
+      "title": "El pollo es el lienzo de quien cocina.",
+      "tgiSays": "{{tgi.pen|pct}} afirma que le encanta cocinar (índice {{tgi.aff|int}}).",
+      "socialObserves": "{{social.share|pct}} de la conversación colombiana es sobre recetas y preparación ({{social.n|int}} menciones).",
+      "reading": "Recetas colombianas simples son el formato que la audiencia ya busca."
+    },
+    {
+      "product": "pollo", "id": "salud", "tgi": "Revisa el contenido nutricional", "social": "topics.nutricion",
+      "title": "La salud aparece, pero en segundo plano.",
+      "tgiSays": "{{tgi.pen|pct}} revisa el contenido nutricional de lo que come (índice {{tgi.aff|int}}).",
+      "socialObserves": "{{social.share|pct}} de la conversación colombiana vincula el pollo con proteína o dieta ({{social.n|int}} menciones).",
+      "reading": "La preocupación por el bienestar también aparece espontáneamente, aunque pesa menos que el precio y la receta."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+@import '@fontsource-variable/archivo/wdth.css';
+@import './tokens.css';
+
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--ink);
+  color: var(--text);
+  font-family: var(--font);
+  font-size: var(--t-m);
+  line-height: 1.55;
+  font-variation-settings: 'wdth' 100;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+h1, h2, h3, h4, p { margin: 0; }
+button { font: inherit; color: inherit; }
+a { color: inherit; }
+:focus-visible { outline: 2px solid var(--focus); outline-offset: 3px; border-radius: 4px; }
+::selection { background: var(--brand); color: #fff; }
+.num { font-variant-numeric: tabular-nums; }
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+/* Voces tipográficas (un solo tipo, tres anchos) */
+.display { font-variation-settings: 'wdth' 118; font-weight: 340; letter-spacing: -0.02em; line-height: 1.02; }
+.condensed { font-variation-settings: 'wdth' 78; }
+.label { font-variation-settings: 'wdth' 82; font-size: var(--t-xs); font-weight: 600; letter-spacing: 0.01em; color: var(--muted); }
+
+/* Fondo vivo y sutil: retícula de datos tenue */
+.app-bg {
+  position: fixed; inset: 0; z-index: 0; pointer-events: none;
+  background:
+    radial-gradient(1200px 600px at 85% -10%, rgba(230, 0, 126, 0.07), transparent 60%),
+    radial-gradient(900px 500px at -10% 110%, rgba(14, 157, 204, 0.06), transparent 60%),
+    linear-gradient(var(--line) 1px, transparent 1px) 0 0 / 100% 64px,
+    var(--ink);
+  mask-image: linear-gradient(180deg, rgba(0,0,0,.9), rgba(0,0,0,.35));
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 0.001ms !important; animation-iteration-count: 1 !important; transition-duration: 0.001ms !important; scroll-behavior: auto !important; }
+}

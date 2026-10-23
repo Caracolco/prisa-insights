@@ -1,0 +1,25 @@
+node_modules/
+dist/
+.wrangler/
+.dev.vars
+*.log
+# Caché LOCAL de Social Listening: textos originales, enlaces y hashes de autor. NUNCA versionar.
+data/raw-cache/
+# Generado por npm run data:build
+worker/generated/
+# Fuentes originales: viven fuera del repo (carpeta del proyecto Power BI)
+*.xlsx
+*.xls
+*.tsv
+# Secretos y credenciales
+.env
+.env.*
+*.pem
+*.key
+.npmrc
+# Capturas de QA, temporales y del sistema
+screens/
+qa*/
+*.tmp
+.DS_Store
+Thumbs.db

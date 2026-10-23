@@ -1,0 +1,45 @@
+{
+  "name": "prisa-insights-web",
+  "version": "0.1.0",
+  "description": "PRISA Insights — Audience Intelligence (web)",
+  "scripts": {
+    "data:labels": "node scripts/import-labels.mjs",
+    "data:tgi": "node scripts/import-labels.mjs && node scripts/import-tgi.mjs",
+    "data:social:import": "node --max-old-space-size=6144 scripts/import-social.mjs",
+    "data:social:classify": "node --max-old-space-size=6144 scripts/classify-social.mjs",
+    "data:social": "npm run data:social:import && npm run data:social:classify",
+    "data:build": "node scripts/build-audience-context.mjs",
+    "data:all": "npm run data:tgi && npm run data:social && npm run data:build",
+    "dev": "vite",
+    "build": "npm run data:build && tsc -p tsconfig.app.json && tsc -p tsconfig.worker.json && vite build",
+    "preview": "vite preview",
+    "worker:dev": "npm run build && wrangler dev",
+    "worker:deploy": "npm run build && wrangler deploy",
+    "typecheck": "tsc -p tsconfig.app.json && tsc -p tsconfig.worker.json"
+  },
+  "license": "UNLICENSED",
+  "type": "module",
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20250614.0",
+    "@types/d3-scale": "^4.0.9",
+    "@types/d3-shape": "^3.1.7",
+    "@types/react": "^18.3.23",
+    "@types/react-dom": "^18.3.7",
+    "@vitejs/plugin-react": "^4.5.2",
+    "exceljs": "^4.4.0",
+    "puppeteer-core": "^24.10.0",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.5",
+    "wrangler": "^4.20.0",
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.3/xlsx-0.20.3.tgz"
+  },
+  "dependencies": {
+    "@fontsource-variable/archivo": "^5.2.8",
+    "d3-scale": "^4.0.2",
+    "d3-shape": "^3.2.0",
+    "motion": "^11.18.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "private": true
+}

@@ -1,0 +1,1496 @@
+[
+ {
+  "elemento": "OPINIONES Y ACTITUDES: ESTILO DE VIDA Y MOTIVACIONES: Totalmente de acuerdo: Me gusta tomar riesgos",
+  "statement": "Me gusta tomar riesgos",
+  "tipo": "OPINION",
+  "categoria": "ESTILO DE VIDA",
+  "corta": "Le gusta tomar riesgos",
+  "grupo": "AVENTURA",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: ESTILO DE VIDA Y MOTIVACIONES: Totalmente de acuerdo: Es importante que mi familia piense que me va bien",
+  "statement": "Es importante que mi familia piense que me va bien",
+  "tipo": "OPINION",
+  "categoria": "ESTILO DE VIDA",
+  "corta": "Valora que su familia vea que le va bien",
+  "grupo": "RECONOC",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: ESTILO DE VIDA Y MOTIVACIONES: Totalmente de acuerdo: Como paso el tiempo es más importante que el dinero que gano",
+  "statement": "Como paso el tiempo es más importante que el dinero que gano",
+  "tipo": "OPINION",
+  "categoria": "ESTILO DE VIDA",
+  "corta": "Valora más su tiempo que el dinero",
+  "grupo": "TIEMPO",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: ESTILO DE VIDA Y MOTIVACIONES: Totalmente de acuerdo: Es más importante cumplir con mi deber que disfrutar de la vida",
+  "statement": "Es más importante cumplir con mi deber que disfrutar de la vida",
+  "tipo": "OPINION",
+  "categoria": "ESTILO DE VIDA",
+  "corta": "Antepone el deber al disfrute",
+  "grupo": "DEBER",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: ESTILO DE VIDA Y MOTIVACIONES: Totalmente de acuerdo: Me preocupo mucho por mí",
+  "statement": "Me preocupo mucho por mí",
+  "tipo": "OPINION",
+  "categoria": "ESTILO DE VIDA",
+  "corta": "Prioriza su bienestar personal",
+  "grupo": "BIENESTAR",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: ESTILO DE VIDA Y MOTIVACIONES: Totalmente de acuerdo: Me gusta disfrutar la vida y no preocuparme por el futuro",
+  "statement": "Me gusta disfrutar la vida y no preocuparme por el futuro",
+  "tipo": "OPINION",
+  "categoria": "ESTILO DE VIDA",
+  "corta": "Vive el presente sin preocuparse por el futuro",
+  "grupo": "PRESENTE",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: ESTILO DE VIDA Y MOTIVACIONES: Totalmente de acuerdo: Hago cosas por impulso muy frecuentemente",
+  "statement": "Hago cosas por impulso muy frecuentemente",
+  "tipo": "OPINION",
+  "categoria": "ESTILO DE VIDA",
+  "corta": "Actúa por impulso con frecuencia",
+  "grupo": "IMPULSO",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: ESTILO DE VIDA Y MOTIVACIONES: Totalmente de acuerdo: Mi trabajo es más que un simple trabajo, lo considero una carrera",
+  "statement": "Mi trabajo es más que un simple trabajo, lo considero una carrera",
+  "tipo": "OPINION",
+  "categoria": "ESTILO DE VIDA",
+  "corta": "Ve su trabajo como una carrera",
+  "grupo": "CARRERA",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: ESTILO DE VIDA Y MOTIVACIONES: Totalmente de acuerdo: Me interesa saber sobre otras culturas",
+  "statement": "Me interesa saber sobre otras culturas",
+  "tipo": "OPINION",
+  "categoria": "ESTILO DE VIDA",
+  "corta": "Le interesa conocer otras culturas",
+  "grupo": "CULTURAS",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: ESTILO DE VIDA Y MOTIVACIONES: Totalmente de acuerdo: Me gustaría empezar mi propio negocio algún día",
+  "statement": "Me gustaría empezar mi propio negocio algún día",
+  "tipo": "OPINION",
+  "categoria": "ESTILO DE VIDA",
+  "corta": "Quiere tener su propio negocio",
+  "grupo": "NEGOCIO",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: ESTILO DE VIDA Y MOTIVACIONES: Totalmente de acuerdo: Prefiero trabajar en equipo en lugar de trabajar sólo",
+  "statement": "Prefiero trabajar en equipo en lugar de trabajar sólo",
+  "tipo": "OPINION",
+  "categoria": "ESTILO DE VIDA",
+  "corta": "Prefiere trabajar en equipo",
+  "grupo": "EQUIPO",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: ESTILO DE VIDA Y MOTIVACIONES: Totalmente de acuerdo: Es importante sentirse respetado por nuestros colegas",
+  "statement": "Es importante sentirse respetado por nuestros colegas",
+  "tipo": "OPINION",
+  "categoria": "ESTILO DE VIDA",
+  "corta": "Busca el respeto de sus colegas",
+  "grupo": "RECONOC",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: ESTILO DE VIDA Y MOTIVACIONES: Totalmente de acuerdo: Es importante seguir aprendiendo cosas nuevas durante el transcurso de nuestra vida",
+  "statement": "Es importante seguir aprendiendo cosas nuevas durante el transcurso de nuestra vida",
+  "tipo": "OPINION",
+  "categoria": "ESTILO DE VIDA",
+  "corta": "Quiere seguir aprendiendo toda la vida",
+  "grupo": "APRENDER",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: ESTILO DE VIDA Y MOTIVACIONES: Totalmente de acuerdo: Me considero una persona creativa",
+  "statement": "Me considero una persona creativa",
+  "tipo": "OPINION",
+  "categoria": "ESTILO DE VIDA",
+  "corta": "Se considera una persona creativa",
+  "grupo": "CREATIVO",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: ESTILO DE VIDA Y MOTIVACIONES: Totalmente de acuerdo: Me gusta tener buenos amigos que me den apoyo durante tiempos difíciles",
+  "statement": "Me gusta tener buenos amigos que me den apoyo durante tiempos difíciles",
+  "tipo": "OPINION",
+  "categoria": "ESTILO DE VIDA",
+  "corta": "Valora el apoyo de sus amigos",
+  "grupo": "AMIGOS",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: ESTILO DE VIDA Y MOTIVACIONES: Totalmente de acuerdo: Me gusta tener control sobre las personas y recursos",
+  "statement": "Me gusta tener control sobre las personas y recursos",
+  "tipo": "OPINION",
+  "categoria": "ESTILO DE VIDA",
+  "corta": "Le gusta tener el control",
+  "grupo": "CONTROL",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: ESTILO DE VIDA Y MOTIVACIONES: Totalmente de acuerdo: Tengo un gran sentido aventurero",
+  "statement": "Tengo un gran sentido aventurero",
+  "tipo": "OPINION",
+  "categoria": "ESTILO DE VIDA",
+  "corta": "Tiene un gran sentido aventurero",
+  "grupo": "AVENTURA",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: ESTILO DE VIDA Y MOTIVACIONES: Totalmente de acuerdo: Me gustaría emprender una vida de aventuras, novedades y cambios",
+  "statement": "Me gustaría emprender una vida de aventuras, novedades y cambios",
+  "tipo": "OPINION",
+  "categoria": "ESTILO DE VIDA",
+  "corta": "Busca una vida de aventuras y cambios",
+  "grupo": "AVENTURA",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: ESTILO DE VIDA Y MOTIVACIONES: Totalmente de acuerdo: Es importante respetar las tradiciones y costumbres",
+  "statement": "Es importante respetar las tradiciones y costumbres",
+  "tipo": "OPINION",
+  "categoria": "ESTILO DE VIDA",
+  "corta": "Respeta tradiciones y costumbres",
+  "grupo": "TRADICION",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: ESTILO DE VIDA Y MOTIVACIONES: Totalmente de acuerdo: Quiero escalar a la cima más alta en mi carrera",
+  "statement": "Quiero escalar a la cima más alta en mi carrera",
+  "tipo": "OPINION",
+  "categoria": "ESTILO DE VIDA",
+  "corta": "Quiere llegar a la cima de su carrera",
+  "grupo": "CARRERA",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: ESTILO DE VIDA Y MOTIVACIONES: Totalmente de acuerdo: Se deben aprovechar las oportunidades cuando surgen en la vida",
+  "statement": "Se deben aprovechar las oportunidades cuando surgen en la vida",
+  "tipo": "OPINION",
+  "categoria": "ESTILO DE VIDA",
+  "corta": "Aprovecha las oportunidades cuando surgen",
+  "grupo": "OPORTUNIDAD",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: ESTILO DE VIDA Y MOTIVACIONES: Totalmente de acuerdo: Es muy importante estar bien informado",
+  "statement": "Es muy importante estar bien informado",
+  "tipo": "OPINION",
+  "categoria": "ESTILO DE VIDA",
+  "corta": "Considera clave estar bien informado",
+  "grupo": "INFORMADO",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: ESTILO DE VIDA Y MOTIVACIONES: Totalmente de acuerdo: Si la primera vez no se triunfa se debe seguir intentando",
+  "statement": "Si la primera vez no se triunfa se debe seguir intentando",
+  "tipo": "OPINION",
+  "categoria": "ESTILO DE VIDA",
+  "corta": "Persiste aunque no triunfe a la primera",
+  "grupo": "PERSISTE",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: ESTILO DE VIDA Y MOTIVACIONES: Totalmente de acuerdo: Me gusta la comida extranjera",
+  "statement": "Me gusta la comida extranjera",
+  "tipo": "OPINION",
+  "categoria": "ESTILO DE VIDA",
+  "corta": "Le gusta la comida extranjera",
+  "grupo": "COMIDA_EXT",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: ESTILO DE VIDA Y MOTIVACIONES: Totalmente de acuerdo: Me gustaría viajar y conocer lugares exóticos",
+  "statement": "Me gustaría viajar y conocer lugares exóticos",
+  "tipo": "OPINION",
+  "categoria": "ESTILO DE VIDA",
+  "corta": "Quiere viajar a lugares exóticos",
+  "grupo": "VIAJE_EXT",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: ESTILO DE VIDA Y MOTIVACIONES: Totalmente de acuerdo: Quiero vivir en otro país en los próximos años",
+  "statement": "Quiero vivir en otro país en los próximos años",
+  "tipo": "OPINION",
+  "categoria": "ESTILO DE VIDA",
+  "corta": "Quiere vivir en otro país",
+  "grupo": "EMIGRAR",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: ESTILO DE VIDA Y MOTIVACIONES: Totalmente de acuerdo: Estoy dispuesto a sacrificar tiempo con mi familia para poder avanzar profesionalmente",
+  "statement": "Estoy dispuesto a sacrificar tiempo con mi familia para poder avanzar profesionalmente",
+  "tipo": "OPINION",
+  "categoria": "ESTILO DE VIDA",
+  "corta": "Sacrifica tiempo familiar por su carrera",
+  "grupo": "CARRERA",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: ESTILO DE VIDA Y MOTIVACIONES: Totalmente de acuerdo: Fácilmente me dejo influenciar por otras personas",
+  "statement": "Fácilmente me dejo influenciar por otras personas",
+  "tipo": "OPINION",
+  "categoria": "ESTILO DE VIDA",
+  "corta": "Se deja influenciar con facilidad",
+  "grupo": "INFLUENCIA",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: ESTILO DE VIDA Y MOTIVACIONES: Totalmente de acuerdo: Disfruto pasar tiempo con mi familia",
+  "statement": "Disfruto pasar tiempo con mi familia",
+  "tipo": "OPINION",
+  "categoria": "ESTILO DE VIDA",
+  "corta": "Disfruta el tiempo en familia",
+  "grupo": "FAMILIA",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: ESTILO DE VIDA Y MOTIVACIONES: Totalmente de acuerdo: La estabilidad en el trabajo es más importante que el sueldo",
+  "statement": "La estabilidad en el trabajo es más importante que el sueldo",
+  "tipo": "OPINION",
+  "categoria": "ESTILO DE VIDA",
+  "corta": "Prefiere estabilidad laboral a mayor sueldo",
+  "grupo": "ESTABILIDAD",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: ESTILO DE VIDA Y MOTIVACIONES: Totalmente de acuerdo: Estoy buscando oportunidades de obtener ingresos adicionales más allá de mi trabajo habitual",
+  "statement": "Estoy buscando oportunidades de obtener ingresos adicionales más allá de mi trabajo habitual",
+  "tipo": "OPINION",
+  "categoria": "ESTILO DE VIDA",
+  "corta": "Busca ingresos adicionales a su trabajo",
+  "grupo": "INGRESOS",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: ESTILO DE VIDA Y MOTIVACIONES: Totalmente de acuerdo: Mi mascota es parte de mi familia",
+  "statement": "Mi mascota es parte de mi familia",
+  "tipo": "OPINION",
+  "categoria": "ESTILO DE VIDA",
+  "corta": "Considera a su mascota parte de la familia",
+  "grupo": "MASCOTA",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: TECNOLOGÍA: Totalmente de acuerdo: Entre mis amigos, soy siempre el primero en tener lo último en aparatos electrónicos",
+  "statement": "Entre mis amigos, soy siempre el primero en tener lo último en aparatos electrónicos",
+  "tipo": "OPINION",
+  "categoria": "TECNOLOGÍA",
+  "corta": "Es el primero en tener lo último en tecnología",
+  "grupo": "EARLY_TECH",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: TECNOLOGÍA: Totalmente de acuerdo: Pagaría lo que fuera por un aparato electrónico que realmente quisiera",
+  "statement": "Pagaría lo que fuera por un aparato electrónico que realmente quisiera",
+  "tipo": "OPINION",
+  "categoria": "TECNOLOGÍA",
+  "corta": "Pagaría lo que fuera por el aparato que quiere",
+  "grupo": "PAGA_TECH",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: TECNOLOGÍA: Totalmente de acuerdo: Busco tanta información como sea posible sobre un aparato electrónico antes de comprarlo",
+  "statement": "Busco tanta información como sea posible sobre un aparato electrónico antes de comprarlo",
+  "tipo": "OPINION",
+  "categoria": "TECNOLOGÍA",
+  "corta": "Investiga a fondo antes de comprar tecnología",
+  "grupo": "INVESTIGA_TECH",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: TECNOLOGÍA: Totalmente de acuerdo: Siempre busco el mejor precio en aparatos electrónicos",
+  "statement": "Siempre busco el mejor precio en aparatos electrónicos",
+  "tipo": "OPINION",
+  "categoria": "TECNOLOGÍA",
+  "corta": "Busca el mejor precio en tecnología",
+  "grupo": "PRECIO",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: TECNOLOGÍA: Totalmente de acuerdo: Frecuentemente mis amigos piden mi opinión cuando van a comprar aparatos electrónicos",
+  "statement": "Frecuentemente mis amigos piden mi opinión cuando van a comprar aparatos electrónicos",
+  "tipo": "OPINION",
+  "categoria": "TECNOLOGÍA",
+  "corta": "Es referente de sus amigos en tecnología",
+  "grupo": "LIDER_OP",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: TECNOLOGÍA: Totalmente de acuerdo: Los computadores me confunden; nunca me voy a acostumbrar a ellos",
+  "statement": "Los computadores me confunden; nunca me voy a acostumbrar a ellos",
+  "tipo": "OPINION",
+  "categoria": "TECNOLOGÍA",
+  "corta": "Le cuesta adaptarse a los computadores",
+  "grupo": "BARRERA_TECH",
+  "peso": 0.6
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: TECNOLOGÍA: Totalmente de acuerdo: Trato de mantenerme actualizado con los desarrollos en tecnología",
+  "statement": "Trato de mantenerme actualizado con los desarrollos en tecnología",
+  "tipo": "OPINION",
+  "categoria": "TECNOLOGÍA",
+  "corta": "Se mantiene al día en tecnología",
+  "grupo": "ACTUAL_TECH",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: TECNOLOGÍA: Totalmente de acuerdo: Me gusta comprar nuevos aparatos y electrodomésticos",
+  "statement": "Me gusta comprar nuevos aparatos y electrodomésticos",
+  "tipo": "OPINION",
+  "categoria": "TECNOLOGÍA",
+  "corta": "Le gusta comprar aparatos nuevos",
+  "grupo": "COMPRA_TECH",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: TECNOLOGÍA: Totalmente de acuerdo: La calidad del contacto humano se ha mejorado gracias a la tecnología",
+  "statement": "La calidad del contacto humano se ha mejorado gracias a la tecnología",
+  "tipo": "OPINION",
+  "categoria": "TECNOLOGÍA",
+  "corta": "Cree que la tecnología mejora el contacto humano",
+  "grupo": "TECH_SOCIAL",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: TECNOLOGÍA: Totalmente de acuerdo: Espero hasta que la tecnología se vuelva más barata antes de considerar una compra",
+  "statement": "Espero hasta que la tecnología se vuelva más barata antes de considerar una compra",
+  "tipo": "OPINION",
+  "categoria": "TECNOLOGÍA",
+  "corta": "Espera a que la tecnología baje de precio",
+  "grupo": "PRECIO",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: TECNOLOGÍA: Totalmente de acuerdo: Es importante para mí, poder sincronizar todos mis aparatos electrónicos",
+  "statement": "Es importante para mí, poder sincronizar todos mis aparatos electrónicos",
+  "tipo": "OPINION",
+  "categoria": "TECNOLOGÍA",
+  "corta": "Quiere todos sus aparatos sincronizados",
+  "grupo": "SYNC",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: FINANZAS PERSONALES (15+): Totalmente de acuerdo: Me informo bien acerca de servicios financieros o inversiones antes de invertir",
+  "statement": "Me informo bien acerca de servicios financieros o inversiones antes de invertir",
+  "tipo": "OPINION",
+  "categoria": "FINANZAS",
+  "corta": "Se informa bien antes de invertir",
+  "grupo": "INFO_FIN",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: FINANZAS PERSONALES (15+): Totalmente de acuerdo: Siempre busco lo mejor en servicios e inversiones financieras",
+  "statement": "Siempre busco lo mejor en servicios e inversiones financieras",
+  "tipo": "OPINION",
+  "categoria": "FINANZAS",
+  "corta": "Busca lo mejor en servicios financieros",
+  "grupo": "INFO_FIN",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: FINANZAS PERSONALES (15+): Totalmente de acuerdo: Mis amigos o socios piden frecuentemente mi opinión sobre asuntos financieros",
+  "statement": "Mis amigos o socios piden frecuentemente mi opinión sobre asuntos financieros",
+  "tipo": "OPINION",
+  "categoria": "FINANZAS",
+  "corta": "Es referente financiero para su entorno",
+  "grupo": "LIDER_OP",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: FINANZAS PERSONALES (15+): Totalmente de acuerdo: Me siento seguro financieramente",
+  "statement": "Me siento seguro financieramente",
+  "tipo": "OPINION",
+  "categoria": "FINANZAS",
+  "corta": "Se siente seguro financieramente",
+  "grupo": "SEGURIDAD_FIN",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: FINANZAS PERSONALES (15+): Totalmente de acuerdo: No sé nada sobre finanzas e inversiones",
+  "statement": "No sé nada sobre finanzas e inversiones",
+  "tipo": "OPINION",
+  "categoria": "FINANZAS",
+  "corta": "Reconoce no saber de finanzas",
+  "grupo": "BARRERA_FIN",
+  "peso": 0.6
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: FINANZAS PERSONALES (15+): Totalmente de acuerdo: Me gusta que otras personas crean que tengo éxito financiero",
+  "statement": "Me gusta que otras personas crean que tengo éxito financiero",
+  "tipo": "OPINION",
+  "categoria": "FINANZAS",
+  "corta": "Le gusta proyectar éxito financiero",
+  "grupo": "STATUS",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: FINANZAS PERSONALES (15+): Totalmente de acuerdo: Tengo la tendencia de gastar dinero sin pensarlo",
+  "statement": "Tengo la tendencia de gastar dinero sin pensarlo",
+  "tipo": "OPINION",
+  "categoria": "FINANZAS",
+  "corta": "Tiende a gastar sin pensarlo",
+  "grupo": "IMPULSO",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: FINANZAS PERSONALES (15+): Totalmente de acuerdo: En mi familia, soy el principal decisor a la hora de elegir productos financieros",
+  "statement": "En mi familia, soy el principal decisor a la hora de elegir productos financieros",
+  "tipo": "OPINION",
+  "categoria": "FINANZAS",
+  "corta": "Decide sobre productos financieros en su familia",
+  "grupo": "DECISOR_FIN",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: FINANZAS PERSONALES (15+): Totalmente de acuerdo: No me gusta tener deudas",
+  "statement": "No me gusta tener deudas",
+  "tipo": "OPINION",
+  "categoria": "FINANZAS",
+  "corta": "Evita endeudarse",
+  "grupo": "DEUDA",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: FINANZAS PERSONALES (15+): Totalmente de acuerdo: Soy muy bueno administrando dinero",
+  "statement": "Soy muy bueno administrando dinero",
+  "tipo": "OPINION",
+  "categoria": "FINANZAS",
+  "corta": "Se considera buen administrador del dinero",
+  "grupo": "ADMIN",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: FINANZAS PERSONALES (15+): Totalmente de acuerdo: Quiero ahorrar, pero me resulta difícil",
+  "statement": "Quiero ahorrar, pero me resulta difícil",
+  "tipo": "OPINION",
+  "categoria": "FINANZAS",
+  "corta": "Quiere ahorrar, pero le cuesta",
+  "grupo": "AHORRO",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: FINANZAS PERSONALES (15+): Totalmente de acuerdo: Con una tarjeta de crédito puedo comprar el tipo de cosas que normalmente no podría comprarme",
+  "statement": "Con una tarjeta de crédito puedo comprar el tipo de cosas que normalmente no podría comprarme",
+  "tipo": "OPINION",
+  "categoria": "FINANZAS",
+  "corta": "Usa el crédito para acceder a más compras",
+  "grupo": "CREDITO",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: FINANZAS PERSONALES (15+): Totalmente de acuerdo: Hoy en día gasto el dinero con más cuidado de lo que solía gastarlo",
+  "statement": "Hoy en día gasto el dinero con más cuidado de lo que solía gastarlo",
+  "tipo": "OPINION",
+  "categoria": "FINANZAS",
+  "corta": "Hoy gasta con más cuidado que antes",
+  "grupo": "CUIDADO_GASTO",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: FINANZAS PERSONALES (15+): Totalmente de acuerdo: La seguridad financiera para la jubilación es responsabilidad de cada uno",
+  "statement": "La seguridad financiera para la jubilación es responsabilidad de cada uno",
+  "tipo": "OPINION",
+  "categoria": "FINANZAS",
+  "corta": "Asume su jubilación como responsabilidad propia",
+  "grupo": "JUBIL",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: FINANZAS PERSONALES (15+): Totalmente de acuerdo: El dinero es la mejor medida del éxito",
+  "statement": "El dinero es la mejor medida del éxito",
+  "tipo": "OPINION",
+  "categoria": "FINANZAS",
+  "corta": "Mide el éxito por el dinero",
+  "grupo": "STATUS",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: FINANZAS PERSONALES (15+): Totalmente de acuerdo: Pagaría lo que fuera por asesoría financiera",
+  "statement": "Pagaría lo que fuera por asesoría financiera",
+  "tipo": "OPINION",
+  "categoria": "FINANZAS",
+  "corta": "Pagaría por buena asesoría financiera",
+  "grupo": "ASESORIA",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: AUTOMÓVILES: Totalmente de acuerdo: Mi carro/ auto sólo está ahí para llevarme de un sitio a otro",
+  "statement": "Mi carro/ auto sólo está ahí para llevarme de un sitio a otro",
+  "tipo": "OPINION",
+  "categoria": "AUTOMÓVILES",
+  "corta": "Ve el carro como simple medio de transporte",
+  "grupo": "AUTO_FUNC",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: AUTOMÓVILES: Totalmente de acuerdo: Básicamente elegiría un carro/ auto en función de su estilo",
+  "statement": "Básicamente elegiría un carro/ auto en función de su estilo",
+  "tipo": "OPINION",
+  "categoria": "AUTOMÓVILES",
+  "corta": "Elige carro por su estilo",
+  "grupo": "AUTO_ESTILO",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: AUTOMÓVILES: Totalmente de acuerdo: Tener un vehículo que sea divertido de manejar, es una característica importante cuando estoy comprando un carro/ auto",
+  "statement": "Tener un vehículo que sea divertido de manejar, es una característica importante cuando estoy comprando un carro/ auto",
+  "tipo": "OPINION",
+  "categoria": "AUTOMÓVILES",
+  "corta": "Busca un carro divertido de manejar",
+  "grupo": "AUTO_PLACER",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: AUTOMÓVILES: Totalmente de acuerdo: Se puede decir mucho sobre alguien por el carro/ auto que maneja",
+  "statement": "Se puede decir mucho sobre alguien por el carro/ auto que maneja",
+  "tipo": "OPINION",
+  "categoria": "AUTOMÓVILES",
+  "corta": "Cree que el carro dice mucho de su dueño",
+  "grupo": "AUTO_ESTILO",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: COMPRAS: Totalmente de acuerdo: Comprar en línea hace mi vida más fácil",
+  "statement": "Comprar en línea hace mi vida más fácil",
+  "tipo": "OPINION",
+  "categoria": "COMPRAS",
+  "corta": "Comprar en línea le facilita la vida",
+  "grupo": "ONLINE",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: COMPRAS: Totalmente de acuerdo: Usualmente leo la información que hay en las etiquetas de los productos",
+  "statement": "Usualmente leo la información que hay en las etiquetas de los productos",
+  "tipo": "OPINION",
+  "categoria": "COMPRAS",
+  "corta": "Lee las etiquetas de los productos",
+  "grupo": "ETIQUETAS",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: COMPRAS: Totalmente de acuerdo: Pido la opinión de otras personas antes de comprar algún artículo nuevo",
+  "statement": "Pido la opinión de otras personas antes de comprar algún artículo nuevo",
+  "tipo": "OPINION",
+  "categoria": "COMPRAS",
+  "corta": "Pide opiniones antes de comprar",
+  "grupo": "CONSULTA",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: COMPRAS: Totalmente de acuerdo: Otras personas piden mi opinión antes de comprar algún artículo nuevo",
+  "statement": "Otras personas piden mi opinión antes de comprar algún artículo nuevo",
+  "tipo": "OPINION",
+  "categoria": "COMPRAS",
+  "corta": "Otros le piden consejo antes de comprar",
+  "grupo": "LIDER_OP",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: COMPRAS: Totalmente de acuerdo: Las celebridades influencian mi decisión de compra",
+  "statement": "Las celebridades influencian mi decisión de compra",
+  "tipo": "OPINION",
+  "categoria": "COMPRAS",
+  "corta": "Las celebridades influyen en sus compras",
+  "grupo": "CELEB",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: COMPRAS: Totalmente de acuerdo: Las transacciones de compras por internet son seguras",
+  "statement": "Las transacciones de compras por internet son seguras",
+  "tipo": "OPINION",
+  "categoria": "COMPRAS",
+  "corta": "Confía en la seguridad de comprar online",
+  "grupo": "ONLINE",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: COMPRAS: Totalmente de acuerdo: Por lo general, voy de compras solamente cuando hay algo que realmente necesito",
+  "statement": "Por lo general, voy de compras solamente cuando hay algo que realmente necesito",
+  "tipo": "OPINION",
+  "categoria": "COMPRAS",
+  "corta": "Compra solo lo que realmente necesita",
+  "grupo": "NECESIDAD",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: COMPRAS: Totalmente de acuerdo: Espero a que las cosas estén en oferta para comprarlas",
+  "statement": "Espero a que las cosas estén en oferta para comprarlas",
+  "tipo": "OPINION",
+  "categoria": "COMPRAS",
+  "corta": "Espera las ofertas para comprar",
+  "grupo": "OFERTA",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: COMPRAS: Totalmente de acuerdo: Frecuentemente aprovecho internet para planear mis compras",
+  "statement": "Frecuentemente aprovecho internet para planear mis compras",
+  "tipo": "OPINION",
+  "categoria": "COMPRAS",
+  "corta": "Planea sus compras en internet",
+  "grupo": "ONLINE_PLAN",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: COMPRAS: Totalmente de acuerdo: Aunque tenga una marca favorita, si otra marca está en oferta especial, la compro",
+  "statement": "Aunque tenga una marca favorita, si otra marca está en oferta especial, la compro",
+  "tipo": "OPINION",
+  "categoria": "COMPRAS",
+  "corta": "Cambia de marca si hay oferta",
+  "grupo": "OFERTA",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: COMPRAS: Totalmente de acuerdo: Usar artículos de renombre mejora la apariencia personal",
+  "statement": "Usar artículos de renombre mejora la apariencia personal",
+  "tipo": "OPINION",
+  "categoria": "COMPRAS",
+  "corta": "Las marcas reconocidas mejoran su imagen",
+  "grupo": "STATUS",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: COMPRAS: Totalmente de acuerdo: Tengo tendencia a ser influenciado por comentarios y/u opiniones posteadas online",
+  "statement": "Tengo tendencia a ser influenciado por comentarios y/u opiniones posteadas online",
+  "tipo": "OPINION",
+  "categoria": "COMPRAS",
+  "corta": "Se guía por reseñas y opiniones online",
+  "grupo": "RESENAS",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: COMPRAS: Totalmente de acuerdo: Frecuentemente compro productos por impulso en almacenes/ tiendas/ comercio",
+  "statement": "Frecuentemente compro productos por impulso en almacenes/ tiendas/ comercio",
+  "tipo": "OPINION",
+  "categoria": "COMPRAS",
+  "corta": "Compra por impulso en tiendas",
+  "grupo": "IMPULSO",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: COMPRAS: Totalmente de acuerdo: Trato de mantenerme al día en los cambios de estilo y moda",
+  "statement": "Trato de mantenerme al día en los cambios de estilo y moda",
+  "tipo": "OPINION",
+  "categoria": "COMPRAS",
+  "corta": "Se mantiene al día en moda",
+  "grupo": "MODA",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: COMPRAS: Totalmente de acuerdo: Generalmente planifico bien la compra de artículos costosos",
+  "statement": "Generalmente planifico bien la compra de artículos costosos",
+  "tipo": "OPINION",
+  "categoria": "COMPRAS",
+  "corta": "Planifica sus compras de alto valor",
+  "grupo": "PLANIFICA",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: COMPRAS: Totalmente de acuerdo: Busco los precios más bajos posibles cuando voy de compras",
+  "statement": "Busco los precios más bajos posibles cuando voy de compras",
+  "tipo": "OPINION",
+  "categoria": "COMPRAS",
+  "corta": "Busca siempre el precio más bajo",
+  "grupo": "PRECIO",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: COMPRAS: Totalmente de acuerdo: Cuando encuentro una marca que me gusta, suelo ser fiel a ella",
+  "statement": "Cuando encuentro una marca que me gusta, suelo ser fiel a ella",
+  "tipo": "OPINION",
+  "categoria": "COMPRAS",
+  "corta": "Es fiel a las marcas que le gustan",
+  "grupo": "FIDELIDAD",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: COMPRAS: Totalmente de acuerdo: Vale la pena pagar un poco más por productos de higiene personal de buena calidad",
+  "statement": "Vale la pena pagar un poco más por productos de higiene personal de buena calidad",
+  "tipo": "OPINION",
+  "categoria": "COMPRAS",
+  "corta": "Paga más por higiene personal de calidad",
+  "grupo": "CALIDAD",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: COMPRAS: Totalmente de acuerdo: Disfruto hacer cualquier tipo de compras",
+  "statement": "Disfruto hacer cualquier tipo de compras",
+  "tipo": "OPINION",
+  "categoria": "COMPRAS",
+  "corta": "Disfruta ir de compras",
+  "grupo": "DISFRUTA_COMPRA",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: COMPRAS: Totalmente de acuerdo: Cuando es posible, compro productos y artículos producidos en mi propio país",
+  "statement": "Cuando es posible, compro productos y artículos producidos en mi propio país",
+  "tipo": "OPINION",
+  "categoria": "COMPRAS",
+  "corta": "Prefiere productos nacionales",
+  "grupo": "NACIONAL",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: COMPRAS: Totalmente de acuerdo: Vale la pena pagar más por productos de calidad",
+  "statement": "Vale la pena pagar más por productos de calidad",
+  "tipo": "OPINION",
+  "categoria": "COMPRAS",
+  "corta": "Paga más por productos de calidad",
+  "grupo": "CALIDAD",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: COMPRAS: Totalmente de acuerdo: Cuando veo una marca nueva, suelo comprarla para ver cómo es",
+  "statement": "Cuando veo una marca nueva, suelo comprarla para ver cómo es",
+  "tipo": "OPINION",
+  "categoria": "COMPRAS",
+  "corta": "Prueba las marcas nuevas",
+  "grupo": "PRUEBA",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: COMPRAS: Totalmente de acuerdo: Pienso que las marcas conocidas son mejores",
+  "statement": "Pienso que las marcas conocidas son mejores",
+  "tipo": "OPINION",
+  "categoria": "COMPRAS",
+  "corta": "Confía más en marcas conocidas",
+  "grupo": "MARCAS",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: COMPRAS: Totalmente de acuerdo: Compro nuevos productos antes que la mayoría de mis amigos",
+  "statement": "Compro nuevos productos antes que la mayoría de mis amigos",
+  "tipo": "OPINION",
+  "categoria": "COMPRAS",
+  "corta": "Compra novedades antes que sus amigos",
+  "grupo": "PRUEBA",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: BEBIDAS (18+): Totalmente de acuerdo: Me gusta probar nuevos tragos y bebidas",
+  "statement": "Me gusta probar nuevos tragos y bebidas",
+  "tipo": "OPINION",
+  "categoria": "BEBIDAS",
+  "corta": "Le gusta probar nuevas bebidas",
+  "grupo": "PRUEBA_BEB",
+  "peso": 0.8
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: BEBIDAS (18+): Totalmente de acuerdo: Estoy dispuesto a pagar un poco más por una buena bebida",
+  "statement": "Estoy dispuesto a pagar un poco más por una buena bebida",
+  "tipo": "OPINION",
+  "categoria": "BEBIDAS",
+  "corta": "Paga más por una buena bebida",
+  "grupo": "CALIDAD_BEB",
+  "peso": 0.8
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: COMIDA Y DIETA: Totalmente de acuerdo: En algunas ocasiones me doy el gusto de comer comidas que no son buenas para la salud",
+  "statement": "En algunas ocasiones me doy el gusto de comer comidas que no son buenas para la salud",
+  "tipo": "OPINION",
+  "categoria": "COMIDA",
+  "corta": "Se da gustos en comida aunque no sean sanos",
+  "grupo": "GUSTO_COMIDA",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: COMIDA Y DIETA: Totalmente de acuerdo: Estoy dispuesto a gastar más en comidas de buena calidad",
+  "statement": "Estoy dispuesto a gastar más en comidas de buena calidad",
+  "tipo": "OPINION",
+  "categoria": "COMIDA",
+  "corta": "Gasta más en comida de calidad",
+  "grupo": "CALIDAD_COMIDA",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: COMIDA Y DIETA: Totalmente de acuerdo: Me gusta probar nuevos productos alimenticios",
+  "statement": "Me gusta probar nuevos productos alimenticios",
+  "tipo": "OPINION",
+  "categoria": "COMIDA",
+  "corta": "Le gusta probar nuevos alimentos",
+  "grupo": "PRUEBA_ALIM",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: COMIDA Y DIETA: Totalmente de acuerdo: Vale la pena pagar un poco más por la comida orgánica",
+  "statement": "Vale la pena pagar un poco más por la comida orgánica",
+  "tipo": "OPINION",
+  "categoria": "COMIDA",
+  "corta": "Paga más por comida orgánica",
+  "grupo": "ORGANICO",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: COMIDA Y DIETA: Totalmente de acuerdo: Pienso que toda la comida rápida es poco alimenticia",
+  "statement": "Pienso que toda la comida rápida es poco alimenticia",
+  "tipo": "OPINION",
+  "categoria": "COMIDA",
+  "corta": "Considera poco nutritiva la comida rápida",
+  "grupo": "NUTRICION",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: COMIDA Y DIETA: Totalmente de acuerdo: Siempre me fijo en las calorías de las cosas que como",
+  "statement": "Siempre me fijo en las calorías de las cosas que como",
+  "tipo": "OPINION",
+  "categoria": "COMIDA",
+  "corta": "Controla las calorías de lo que come",
+  "grupo": "NUTRICION",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: COMIDA Y DIETA: Totalmente de acuerdo: Siempre verifico el contenido nutricional de los alimentos",
+  "statement": "Siempre verifico el contenido nutricional de los alimentos",
+  "tipo": "OPINION",
+  "categoria": "COMIDA",
+  "corta": "Revisa el contenido nutricional",
+  "grupo": "NUTRICION",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: COMIDA Y DIETA: Totalmente de acuerdo: Consumo productos de origen vegetal (Ej.: leche de almendras, carne de soya, etc.)",
+  "statement": "leche de almendras, carne de soya, etc.)",
+  "tipo": "OPINION",
+  "categoria": "COMIDA",
+  "corta": "Consume productos de origen vegetal",
+  "grupo": "VEGETAL",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: COMIDA Y DIETA: Totalmente de acuerdo: Soy siempre el primero en probar nuevos alimentos saludables o productos nutricionales",
+  "statement": "Soy siempre el primero en probar nuevos alimentos saludables o productos nutricionales",
+  "tipo": "OPINION",
+  "categoria": "COMIDA",
+  "corta": "Prueba primero alimentos saludables nuevos",
+  "grupo": "PRUEBA_ALIM",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: COMIDA Y DIETA: Totalmente de acuerdo: No tengo tiempo para preparar comidas saludables",
+  "statement": "No tengo tiempo para preparar comidas saludables",
+  "tipo": "OPINION",
+  "categoria": "COMIDA",
+  "corta": "No tiene tiempo para cocinar saludable",
+  "grupo": "TIEMPO_COMIDA",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: COMIDA Y DIETA: Totalmente de acuerdo: Siempre busco la versión diet/ light de los alimentos y bebidas",
+  "statement": "Siempre busco la versión diet/ light de los alimentos y bebidas",
+  "tipo": "OPINION",
+  "categoria": "COMIDA",
+  "corta": "Busca versiones light de alimentos",
+  "grupo": "NUTRICION",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: VIAJES Y VACACIONES: Totalmente de acuerdo: Las verdaderas vacaciones siempre incluyen un viaje",
+  "statement": "Las verdaderas vacaciones siempre incluyen un viaje",
+  "tipo": "OPINION",
+  "categoria": "VIAJES",
+  "corta": "Asocia vacaciones con viajar",
+  "grupo": "VACA_VIAJE",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: VIAJES Y VACACIONES: Totalmente de acuerdo: Internet me ayuda a planear y reservar viajes",
+  "statement": "Internet me ayuda a planear y reservar viajes",
+  "tipo": "OPINION",
+  "categoria": "VIAJES",
+  "corta": "Planea y reserva viajes por internet",
+  "grupo": "VIAJE_ONLINE",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: VIAJES Y VACACIONES: Totalmente de acuerdo: Prefiero tomar vacaciones en lugares no muy conocidos",
+  "statement": "Prefiero tomar vacaciones en lugares no muy conocidos",
+  "tipo": "OPINION",
+  "categoria": "VIAJES",
+  "corta": "Prefiere destinos poco conocidos",
+  "grupo": "DESTINO_NICHO",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: VIAJES Y VACACIONES: Totalmente de acuerdo: Prefiero salir de vacaciones en mi propio país, que viajar al extranjero",
+  "statement": "Prefiero salir de vacaciones en mi propio país, que viajar al extranjero",
+  "tipo": "OPINION",
+  "categoria": "VIAJES",
+  "corta": "Prefiere vacacionar dentro del país",
+  "grupo": "VIAJE_NAC",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: VIAJES Y VACACIONES: Totalmente de acuerdo: Me encanta la idea de viajar hacia el exterior",
+  "statement": "Me encanta la idea de viajar hacia el exterior",
+  "tipo": "OPINION",
+  "categoria": "VIAJES",
+  "corta": "Le atrae viajar al exterior",
+  "grupo": "VIAJE_EXT",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: COSMÉTICOS Y PRODUCTOS DE HIGIENE PERSONAL: Totalmente de acuerdo: Gasto mucho dinero en productos higiénicos y cosméticos para mi uso personal",
+  "statement": "Gasto mucho dinero en productos higiénicos y cosméticos para mi uso personal",
+  "tipo": "OPINION",
+  "categoria": "CUIDADO PERSONAL",
+  "corta": "Invierte en productos de cuidado personal",
+  "grupo": "COSM",
+  "peso": 0.8
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: COSMÉTICOS Y PRODUCTOS DE HIGIENE PERSONAL: Totalmente de acuerdo: Usar maquillaje me hace más confiado/a",
+  "statement": "Usar maquillaje me hace más confiado/a",
+  "tipo": "OPINION",
+  "categoria": "CUIDADO PERSONAL",
+  "corta": "El maquillaje le da confianza",
+  "grupo": "MAQUILLAJE",
+  "peso": 0.8
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: COSMÉTICOS Y PRODUCTOS DE HIGIENE PERSONAL: Totalmente de acuerdo: Acostumbro a comprar siempre los mismos productos de belleza",
+  "statement": "Acostumbro a comprar siempre los mismos productos de belleza",
+  "tipo": "OPINION",
+  "categoria": "CUIDADO PERSONAL",
+  "corta": "Es fiel a sus productos de belleza",
+  "grupo": "FIDELIDAD",
+  "peso": 0.8
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: COSMÉTICOS Y PRODUCTOS DE HIGIENE PERSONAL: Totalmente de acuerdo: Los productos para el cuidado de la piel ayudan a lucir más joven",
+  "statement": "Los productos para el cuidado de la piel ayudan a lucir más joven",
+  "tipo": "OPINION",
+  "categoria": "CUIDADO PERSONAL",
+  "corta": "Cuida su piel para lucir más joven",
+  "grupo": "PIEL",
+  "peso": 0.8
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: SALUD Y FARMACÉUTICOS: Totalmente de acuerdo: Pagaría lo que fuera por mi salud",
+  "statement": "Pagaría lo que fuera por mi salud",
+  "tipo": "OPINION",
+  "categoria": "SALUD",
+  "corta": "Pagaría lo que fuera por su salud",
+  "grupo": "SALUD_PAGA",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: SALUD Y FARMACÉUTICOS: Totalmente de acuerdo: Debido a mi vida personal tan agitada, no me cuido de la manera que debería",
+  "statement": "Debido a mi vida personal tan agitada, no me cuido de la manera que debería",
+  "tipo": "OPINION",
+  "categoria": "SALUD",
+  "corta": "Su ritmo de vida le impide cuidarse",
+  "grupo": "SALUD_DESCUIDO",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: SALUD Y FARMACÉUTICOS: Totalmente de acuerdo: Confío en la medicina homeopática/ remedios caseros",
+  "statement": "Confío en la medicina homeopática/ remedios caseros",
+  "tipo": "OPINION",
+  "categoria": "SALUD",
+  "corta": "Confía en remedios caseros y homeopatía",
+  "grupo": "ALTERNATIVA",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: SALUD Y FARMACÉUTICOS: Totalmente de acuerdo: Casi siempre estoy tratando de perder peso",
+  "statement": "Casi siempre estoy tratando de perder peso",
+  "tipo": "OPINION",
+  "categoria": "SALUD",
+  "corta": "Casi siempre intenta perder peso",
+  "grupo": "PESO",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: SALUD Y FARMACÉUTICOS: Totalmente de acuerdo: Tengo que estar realmente enfermo para ir al médico",
+  "statement": "Tengo que estar realmente enfermo para ir al médico",
+  "tipo": "OPINION",
+  "categoria": "SALUD",
+  "corta": "Solo va al médico si está muy enfermo",
+  "grupo": "SALUD_DESCUIDO",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: SALUD Y FARMACÉUTICOS: Totalmente de acuerdo: Me hago exámenes de salud de forma regular, aunque me sienta bien",
+  "statement": "Me hago exámenes de salud de forma regular, aunque me sienta bien",
+  "tipo": "OPINION",
+  "categoria": "SALUD",
+  "corta": "Se hace chequeos médicos preventivos",
+  "grupo": "PREVENCION",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: SALUD Y FARMACÉUTICOS: Totalmente de acuerdo: Los medicamentos genéricos son tan eficaces como los medicamentos de marca",
+  "statement": "Los medicamentos genéricos son tan eficaces como los medicamentos de marca",
+  "tipo": "OPINION",
+  "categoria": "SALUD",
+  "corta": "Confía en medicamentos genéricos",
+  "grupo": "GENERICOS",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: OCIO: Totalmente de acuerdo: Me encanta cocinar",
+  "statement": "Me encanta cocinar",
+  "tipo": "OPINION",
+  "categoria": "OCIO",
+  "corta": "Le encanta cocinar",
+  "grupo": "COCINAR",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: OCIO: Totalmente de acuerdo: Me considero interesado en las artes",
+  "statement": "Me considero interesado en las artes",
+  "tipo": "OPINION",
+  "categoria": "OCIO",
+  "corta": "Se interesa por las artes",
+  "grupo": "ARTES",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: OCIO: Totalmente de acuerdo: Practico algún tipo de deporte o ejercicio por lo menos una vez a la semana",
+  "statement": "Practico algún tipo de deporte o ejercicio por lo menos una vez a la semana",
+  "tipo": "OPINION",
+  "categoria": "OCIO",
+  "corta": "Hace ejercicio cada semana",
+  "grupo": "EJERCICIO",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: OCIO: Totalmente de acuerdo: Prefiero pasar una noche tranquila en casa, en lugar de salir",
+  "statement": "Prefiero pasar una noche tranquila en casa, en lugar de salir",
+  "tipo": "OPINION",
+  "categoria": "OCIO",
+  "corta": "Prefiere noches tranquilas en casa",
+  "grupo": "CASA",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: OCIO: Totalmente de acuerdo: La música forma parte muy importante de mi vida",
+  "statement": "La música forma parte muy importante de mi vida",
+  "tipo": "OPINION",
+  "categoria": "OCIO",
+  "corta": "La música es central en su vida",
+  "grupo": "MUSICA",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: CELEBRACIONES: Totalmente de acuerdo: Me gusta celebrar las fiestas patrias",
+  "statement": "Me gusta celebrar las fiestas patrias",
+  "tipo": "OPINION",
+  "categoria": "CELEBRACIONES",
+  "corta": "Celebra las fiestas patrias",
+  "grupo": "CEL_PATRIAS",
+  "peso": 0.8
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: CELEBRACIONES: Totalmente de acuerdo: Me gusta celebrar Navidad y Año Nuevo",
+  "statement": "Me gusta celebrar Navidad y Año Nuevo",
+  "tipo": "OPINION",
+  "categoria": "CELEBRACIONES",
+  "corta": "Disfruta celebrar Navidad y Año Nuevo",
+  "grupo": "CEL_NAVIDAD",
+  "peso": 0.8
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: CELEBRACIONES: Totalmente de acuerdo: Me gusta celebrar el día del padre/ día de la madre",
+  "statement": "Me gusta celebrar el día del padre/ día de la madre",
+  "tipo": "OPINION",
+  "categoria": "CELEBRACIONES",
+  "corta": "Celebra el Día del Padre y de la Madre",
+  "grupo": "CEL_FAMILIA",
+  "peso": 0.8
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: CELEBRACIONES: Totalmente de acuerdo: Me gusta celebrar Halloween",
+  "statement": "Me gusta celebrar Halloween",
+  "tipo": "OPINION",
+  "categoria": "CELEBRACIONES",
+  "corta": "Celebra Halloween",
+  "grupo": "CEL_HALLOWEEN",
+  "peso": 0.8
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: CELEBRACIONES: Totalmente de acuerdo: Me gusta celebrar el día de amor y amistad",
+  "statement": "Me gusta celebrar el día de amor y amistad",
+  "tipo": "OPINION",
+  "categoria": "CELEBRACIONES",
+  "corta": "Celebra Amor y Amistad",
+  "grupo": "CEL_AMOR",
+  "peso": 0.8
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: DEPORTES Y EJERCICIOS: Totalmente de acuerdo: No me siento bien conmigo a menos que haga ejercicio regularmente",
+  "statement": "No me siento bien conmigo a menos que haga ejercicio regularmente",
+  "tipo": "OPINION",
+  "categoria": "DEPORTE",
+  "corta": "Necesita ejercitarse para sentirse bien",
+  "grupo": "EJERCICIO",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: DEPORTES Y EJERCICIOS: Totalmente de acuerdo: Practico deportes de equipo por la emoción de la competencia",
+  "statement": "Practico deportes de equipo por la emoción de la competencia",
+  "tipo": "OPINION",
+  "categoria": "DEPORTE",
+  "corta": "Practica deportes de equipo por competir",
+  "grupo": "COMPETENCIA",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: DEPORTES Y EJERCICIOS: Totalmente de acuerdo: Realmente no tengo la autodisciplina para hacer ejercicio regularmente",
+  "statement": "Realmente no tengo la autodisciplina para hacer ejercicio regularmente",
+  "tipo": "OPINION",
+  "categoria": "DEPORTE",
+  "corta": "Le falta disciplina para ejercitarse",
+  "grupo": "BARRERA_EJ",
+  "peso": 0.6
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: DEPORTES Y EJERCICIOS: Totalmente de acuerdo: No me gusta hacer ejercicio, pero estoy de acuerdo en que es una buena forma de estar saludable.",
+  "statement": "No me gusta hacer ejercicio, pero estoy de acuerdo en que es una buena forma de estar saludable.",
+  "tipo": "OPINION",
+  "categoria": "DEPORTE",
+  "corta": "No disfruta el ejercicio, aunque lo valora",
+  "grupo": "BARRERA_EJ",
+  "peso": 0.6
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: DEPORTES Y EJERCICIOS: Totalmente de acuerdo: Siempre como y bebo muy saludablemente",
+  "statement": "Siempre como y bebo muy saludablemente",
+  "tipo": "OPINION",
+  "categoria": "DEPORTE",
+  "corta": "Se alimenta de forma saludable",
+  "grupo": "NUTRICION",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: DEPORTES Y EJERCICIOS: Totalmente de acuerdo: Trabajo muy duro para mantenerme en forma",
+  "statement": "Trabajo muy duro para mantenerme en forma",
+  "tipo": "OPINION",
+  "categoria": "DEPORTE",
+  "corta": "Se esfuerza por mantenerse en forma",
+  "grupo": "EJERCICIO",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: DEPORTES Y EJERCICIOS: Totalmente de acuerdo: Sólo me emociono con el fútbol, cuando hay un partido importante o un campeonato",
+  "statement": "Sólo me emociono con el fútbol, cuando hay un partido importante o un campeonato",
+  "tipo": "OPINION",
+  "categoria": "DEPORTE",
+  "corta": "Se emociona con el fútbol en partidos clave",
+  "grupo": "FUTBOL",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: DEPORTES Y EJERCICIOS: Totalmente de acuerdo: Estoy muy interesado(a) en la Copa del Mundo 2026",
+  "statement": "Estoy muy interesado(a) en la Copa del Mundo 2026",
+  "tipo": "OPINION",
+  "categoria": "DEPORTE",
+  "corta": "Sigue con interés el Mundial 2026",
+  "grupo": "MUNDIAL",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: DEPORTES Y EJERCICIOS: Totalmente de acuerdo: La publicidad durante los partidos del mundial puede influir en la percepción que tengo sobre algunas marcas",
+  "statement": "La publicidad durante los partidos del mundial puede influir en la percepción que tengo sobre algunas marcas",
+  "tipo": "OPINION",
+  "categoria": "DEPORTE",
+  "corta": "La publicidad del Mundial influye en su visión de marcas",
+  "grupo": "MUNDIAL",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: DEPORTES Y EJERCICIOS: Totalmente de acuerdo: Estoy dispuesto(a) a participar en promociones, concursos o actividades, de marcas patrocinadoras del mundial",
+  "statement": "Estoy dispuesto(a) a participar en promociones, concursos o actividades, de marcas patrocinadoras del mundial",
+  "tipo": "OPINION",
+  "categoria": "DEPORTE",
+  "corta": "Participaría en promociones de marcas del Mundial",
+  "grupo": "MUNDIAL",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: DEPORTES Y EJERCICIOS: Totalmente de acuerdo: La copa del mundo es una oportunidad única para conectar emocionalmente con las marcas",
+  "statement": "La copa del mundo es una oportunidad única para conectar emocionalmente con las marcas",
+  "tipo": "OPINION",
+  "categoria": "DEPORTE",
+  "corta": "Ve el Mundial como vínculo emocional con marcas",
+  "grupo": "MUNDIAL",
+  "peso": 1
+ },
+ {
+  "elemento": "OPINIONES Y ACTITUDES: PRODUCTOS PARA LA CASA: Totalmente de acuerdo: Siempre estoy buscando nuevas ideas para mejorar mi hogar",
+  "statement": "Siempre estoy buscando nuevas ideas para mejorar mi hogar",
+  "tipo": "OPINION",
+  "categoria": "HOGAR",
+  "corta": "Busca ideas para mejorar su hogar",
+  "grupo": "HOGAR_MEJORA",
+  "peso": 1
+ },
+ {
+  "elemento": "EVENTOS EN LA VIDA: EVENTOS: Espera vivir-P12m: Terminar el bachillerato",
+  "statement": "Terminar el bachillerato",
+  "tipo": "EVENTO",
+  "categoria": "PLAN",
+  "corta": "Terminar el bachillerato",
+  "grupo": "EST_BASICA",
+  "peso": 1
+ },
+ {
+  "elemento": "EVENTOS EN LA VIDA: EVENTOS: Espera vivir-P12m: Empezar la universidad o regresar a la universidad",
+  "statement": "Empezar la universidad o regresar a la universidad",
+  "tipo": "EVENTO",
+  "categoria": "PLAN",
+  "corta": "Empezar o retomar la universidad",
+  "grupo": "EST_BASICA",
+  "peso": 1
+ },
+ {
+  "elemento": "EVENTOS EN LA VIDA: EVENTOS: Espera vivir-P12m: Terminar la universidad",
+  "statement": "Terminar la universidad",
+  "tipo": "EVENTO",
+  "categoria": "PLAN",
+  "corta": "Terminar la universidad",
+  "grupo": "EST_BASICA",
+  "peso": 1
+ },
+ {
+  "elemento": "EVENTOS EN LA VIDA: EVENTOS: Espera vivir-P12m: Empezar un curso de posgrado, maestría, doctorado",
+  "statement": "Empezar un curso de posgrado, maestría, doctorado",
+  "tipo": "EVENTO",
+  "categoria": "PLAN",
+  "corta": "Iniciar un posgrado",
+  "grupo": "POSGRADO",
+  "peso": 1
+ },
+ {
+  "elemento": "EVENTOS EN LA VIDA: EVENTOS: Espera vivir-P12m: Empezar su 1er trabajo",
+  "statement": "Empezar su 1er trabajo",
+  "tipo": "EVENTO",
+  "categoria": "PLAN",
+  "corta": "Conseguir su primer empleo",
+  "grupo": "TRABAJO",
+  "peso": 1
+ },
+ {
+  "elemento": "EVENTOS EN LA VIDA: EVENTOS: Espera vivir-P12m: Cambiar de trabajo",
+  "statement": "Cambiar de trabajo",
+  "tipo": "EVENTO",
+  "categoria": "PLAN",
+  "corta": "Cambiar de trabajo",
+  "grupo": "TRABAJO",
+  "peso": 1
+ },
+ {
+  "elemento": "EVENTOS EN LA VIDA: EVENTOS: Espera vivir-P12m: Comprar su 1er automóvil",
+  "statement": "Comprar su 1er automóvil",
+  "tipo": "EVENTO",
+  "categoria": "PLAN",
+  "corta": "Comprar su primer automóvil",
+  "grupo": "AUTO",
+  "peso": 1
+ },
+ {
+  "elemento": "EVENTOS EN LA VIDA: EVENTOS: Espera vivir-P12m: Irse de la casa de los padres",
+  "statement": "Irse de la casa de los padres",
+  "tipo": "EVENTO",
+  "categoria": "PLAN",
+  "corta": "Independizarse de sus padres",
+  "grupo": "INDEP",
+  "peso": 1
+ },
+ {
+  "elemento": "EVENTOS EN LA VIDA: EVENTOS: Espera vivir-P12m: Ir a vivir con la pareja",
+  "statement": "Ir a vivir con la pareja",
+  "tipo": "EVENTO",
+  "categoria": "PLAN",
+  "corta": "Irse a vivir en pareja",
+  "grupo": "PAREJA",
+  "peso": 1
+ },
+ {
+  "elemento": "EVENTOS EN LA VIDA: EVENTOS: Espera vivir-P12m: Comprometerse",
+  "statement": "Comprometerse",
+  "tipo": "EVENTO",
+  "categoria": "PLAN",
+  "corta": "Comprometerse",
+  "grupo": "PAREJA",
+  "peso": 1
+ },
+ {
+  "elemento": "EVENTOS EN LA VIDA: EVENTOS: Espera vivir-P12m: Casarse",
+  "statement": "Casarse",
+  "tipo": "EVENTO",
+  "categoria": "PLAN",
+  "corta": "Casarse",
+  "grupo": "PAREJA",
+  "peso": 1
+ },
+ {
+  "elemento": "EVENTOS EN LA VIDA: EVENTOS: Espera vivir-P12m: Comprar la primera casa/ apartamento",
+  "statement": "Comprar la primera casa/ apartamento",
+  "tipo": "EVENTO",
+  "categoria": "PLAN",
+  "corta": "Comprar su primera vivienda",
+  "grupo": "VIVIENDA",
+  "peso": 1
+ },
+ {
+  "elemento": "EVENTOS EN LA VIDA: EVENTOS: Espera vivir-P12m: Vender la casa/ apartamento donde vivía",
+  "statement": "Vender la casa/ apartamento donde vivía",
+  "tipo": "EVENTO",
+  "categoria": "PLAN",
+  "corta": "Vender su vivienda actual",
+  "grupo": "VIVIENDA",
+  "peso": 1
+ },
+ {
+  "elemento": "EVENTOS EN LA VIDA: EVENTOS: Espera vivir-P12m: Hacer reformas en el hogar",
+  "statement": "Hacer reformas en el hogar",
+  "tipo": "EVENTO",
+  "categoria": "PLAN",
+  "corta": "Reformar el hogar",
+  "grupo": "REFORMA",
+  "peso": 1
+ },
+ {
+  "elemento": "EVENTOS EN LA VIDA: EVENTOS: Espera vivir-P12m: Nacimiento del 1er hijo",
+  "statement": "Nacimiento del 1er hijo",
+  "tipo": "EVENTO",
+  "categoria": "PLAN",
+  "corta": "Tener su primer hijo",
+  "grupo": "HIJO_NAC",
+  "peso": 1
+ },
+ {
+  "elemento": "EVENTOS EN LA VIDA: EVENTOS: Espera vivir-P12m: Nacimiento del 2do u otros hijos",
+  "statement": "Nacimiento del 2do u otros hijos",
+  "tipo": "EVENTO",
+  "categoria": "PLAN",
+  "corta": "Tener otro hijo",
+  "grupo": "HIJO_NAC",
+  "peso": 1
+ },
+ {
+  "elemento": "EVENTOS EN LA VIDA: EVENTOS: Espera vivir-P12m: Comprar una nueva casa/ apartamento",
+  "statement": "Comprar una nueva casa/ apartamento",
+  "tipo": "EVENTO",
+  "categoria": "PLAN",
+  "corta": "Comprar una nueva vivienda",
+  "grupo": "VIVIENDA",
+  "peso": 1
+ },
+ {
+  "elemento": "EVENTOS EN LA VIDA: EVENTOS: Espera vivir-P12m: Hijos entran al colegio",
+  "statement": "Hijos entran al colegio",
+  "tipo": "EVENTO",
+  "categoria": "PLAN",
+  "corta": "Matricular a sus hijos en el colegio",
+  "grupo": "HIJOS_EDU",
+  "peso": 1
+ },
+ {
+  "elemento": "EVENTOS EN LA VIDA: EVENTOS: Espera vivir-P12m: Hijos entran en la universidad",
+  "statement": "Hijos entran en la universidad",
+  "tipo": "EVENTO",
+  "categoria": "PLAN",
+  "corta": "Ver a sus hijos entrar a la universidad",
+  "grupo": "HIJOS_EDU",
+  "peso": 1
+ },
+ {
+  "elemento": "EVENTOS EN LA VIDA: EVENTOS: Espera vivir-P12m: Hijos se gradúan de la universidad",
+  "statement": "Hijos se gradúan de la universidad",
+  "tipo": "EVENTO",
+  "categoria": "PLAN",
+  "corta": "Ver graduarse a sus hijos",
+  "grupo": "HIJOS_EDU",
+  "peso": 1
+ },
+ {
+  "elemento": "EVENTOS EN LA VIDA: EVENTOS: Espera vivir-P12m: Hijos se van de casa",
+  "statement": "Hijos se van de casa",
+  "tipo": "EVENTO",
+  "categoria": "PLAN",
+  "corta": "Ver a sus hijos independizarse",
+  "grupo": "HIJOS_CASA",
+  "peso": 1
+ },
+ {
+  "elemento": "EVENTOS EN LA VIDA: EVENTOS: Espera vivir-P12m: Bodas de los hijos",
+  "statement": "Bodas de los hijos",
+  "tipo": "EVENTO",
+  "categoria": "PLAN",
+  "corta": "Celebrar la boda de un hijo",
+  "grupo": "HIJOS_BODA",
+  "peso": 1
+ },
+ {
+  "elemento": "EVENTOS EN LA VIDA: EVENTOS: Espera vivir-P12m: Emprender un negocio propio",
+  "statement": "Emprender un negocio propio",
+  "tipo": "EVENTO",
+  "categoria": "PLAN",
+  "corta": "Emprender un negocio propio",
+  "grupo": "NEGOCIO",
+  "peso": 1
+ },
+ {
+  "elemento": "EVENTOS EN LA VIDA: EVENTOS: Espera vivir-P12m: Entrar en la jubilación",
+  "statement": "Entrar en la jubilación",
+  "tipo": "EVENTO",
+  "categoria": "PLAN",
+  "corta": "Jubilarse",
+  "grupo": "JUBIL",
+  "peso": 1
+ },
+ {
+  "elemento": "EVENTOS EN LA VIDA: EVENTOS: Espera vivir-P12m: Viajar hacia el exterior por 1er vez",
+  "statement": "Viajar hacia el exterior por 1er vez",
+  "tipo": "EVENTO",
+  "categoria": "PLAN",
+  "corta": "Viajar al exterior por primera vez",
+  "grupo": "VIAJE",
+  "peso": 1
+ },
+ {
+  "elemento": "EVENTOS EN LA VIDA: EVENTOS: Espera vivir-P12m: Recoger la suma total de la pensión de la empresa y/o ahorros",
+  "statement": "Recoger la suma total de la pensión de la empresa y/o ahorros",
+  "tipo": "EVENTO",
+  "categoria": "PLAN",
+  "corta": "Recibir su pensión o ahorros",
+  "grupo": "JUBIL",
+  "peso": 1
+ },
+ {
+  "elemento": "EVENTOS EN LA VIDA: EVENTOS: Espera vivir-P12m: Terminar de pagar la hipoteca",
+  "statement": "Terminar de pagar la hipoteca",
+  "tipo": "EVENTO",
+  "categoria": "PLAN",
+  "corta": "Terminar de pagar la hipoteca",
+  "grupo": "VIVIENDA",
+  "peso": 1
+ },
+ {
+  "elemento": "EVENTOS EN LA VIDA: EVENTOS: Espera vivir-P12m: Nacimiento de nieto",
+  "statement": "Nacimiento de nieto",
+  "tipo": "EVENTO",
+  "categoria": "PLAN",
+  "corta": "Recibir a un nieto",
+  "grupo": "NIETO",
+  "peso": 1
+ }
+]

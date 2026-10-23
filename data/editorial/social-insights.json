@@ -1,0 +1,311 @@
+{
+  "_doc": "Redacción editorial de Social Listening (v2, Colombia primero). Los {{ruta}} se resuelven contra las métricas de COLOMBIA (geo.co) de data/processed/social/<producto>.metrics.json. 'otros.' = otros países (contexto secundario), 'sinpais.' = país no identificado, 'total.' = todo. Nada se escribe a mano. Cada bloque tiene compuertas mínimas; si falla 3 o más de las 5 preguntas de calidad, no se publica. Lo que no alcanza evidencia en Colombia NO se traslada al consumidor colombiano: se muestra como contexto de otros mercados.",
+  "rules": {
+    "minBaseColombia": 300,
+    "minNColombia": 20,
+    "minNOccasionColombia": 10,
+    "minNOtros": 50,
+    "topicsExcluded": [
+      "mascotas",
+      "otros_usos"
+    ]
+  },
+  "huevo": {
+    "derived": {
+      "politicalShareOfPrice": [
+        "signals.precioPolitizado.n",
+        "/",
+        "topics.precio.consumerN"
+      ],
+      "negShareOfPrice": [
+        "topics.precio.sentimentConsumer.NEGATIVO",
+        "/",
+        "topics.precio.consumerN"
+      ],
+      "arrozShare": [
+        "signals.arrozConHuevo.n",
+        "/",
+        "consumerN"
+      ]
+    },
+    "headline": {
+      "title": "En Colombia, el huevo se conversa como termómetro del bolsillo.",
+      "body": "{{topics.precio.consumerShare|pct}} de lo que dicen los consumidores colombianos sobre huevo habla de cubeta, cartón o costo de vida, y {{derived.politicalShareOfPrice|pct}} de esas menciones lo usa como argumento político.",
+      "gate": [
+        [
+          "topics.precio.consumerShare",
+          ">=",
+          15
+        ]
+      ]
+    },
+    "tensions": [
+      {
+        "id": "precio",
+        "kind": "tensión",
+        "title": "Un básico que sube",
+        "metric": "topics.precio",
+        "body": "La cubeta y el cartón son la unidad con la que el hogar mide la inflación: {{signals.cubetaCarton.n|int}} menciones colombianas hablan de la cubeta, el cartón o el panal."
+      },
+      {
+        "id": "rescate",
+        "kind": "necesidad",
+        "title": "Que alcance para comer",
+        "metric": "topics.subsistencia",
+        "body": "El huevo aparece como la comida que queda cuando no alcanza la plata: “a punta de arroz con huevo”."
+      },
+      {
+        "id": "versatilidad",
+        "kind": "motivador",
+        "title": "Resuelve cualquier comida",
+        "metric": "topics.recetas",
+        "body": "Frito, revuelto, en perico, en caldo o con arroz: {{topics.recetas.consumerShare|pct}} de la conversación habla de cómo se prepara."
+      },
+      {
+        "id": "identidad",
+        "kind": "motivador",
+        "title": "Orgullo de la mesa colombiana",
+        "metric": "topics.identidad",
+        "body": "La arepa de huevo concentra esta conversación ({{signals.arepaHuevo.n|int}} menciones colombianas): se defiende como plato propio y referente regional."
+      },
+      {
+        "id": "origen",
+        "kind": "motivador",
+        "title": "Lo de acá y lo de campo",
+        "metric": "topics.origen",
+        "body": "Huevo de campo, galpones, avicultores y producción nacional aparecen como referencia frente al huevo barato o importado."
+      }
+    ],
+    "insights": [
+      {
+        "id": "arroz-con-huevo",
+        "title": "El arroz con huevo es la unidad mínima de la mesa.",
+        "seeing": "{{signals.arrozConHuevo.n|int}} menciones colombianas ({{signals.arrozConHuevo.share|pct}}) nombran “arroz con huevo”. Se usa para hablar de carencia y austeridad, y también para defenderlo como plato propio.",
+        "why": "El huevo no compite solo como ingrediente: es el piso de la alimentación del hogar. Hablarle desde la abundancia o el gourmet puede sonar ajeno.",
+        "metric": "signals.arrozConHuevo",
+        "quality": {
+          "new": true,
+          "decision": true
+        }
+      },
+      {
+        "id": "precio-politico",
+        "title": "La cubeta se volvió argumento político.",
+        "seeing": "{{signals.precioPolitizado.n|int}} menciones colombianas sobre el precio del huevo nombran gobiernos, presidentes o partidos ({{derived.politicalShareOfPrice|pct}} de la conversación de precio): el valor de la cubeta se usa para defender o atacar una gestión.",
+        "why": "Cualquier comunicación de precio del huevo entra a una conversación polarizada. La marca debe hablar de rendimiento y transparencia, no de culpables.",
+        "metric": "signals.precioPolitizado",
+        "quality": {
+          "new": true,
+          "decision": true
+        }
+      }
+    ],
+    "unexpectedUses": [
+      {
+        "id": "limpias",
+        "title": "Usos rituales y de belleza",
+        "metric": "topics.otros_usos",
+        "body": "Limpias, rituales y mascarillas con huevo."
+      }
+    ],
+    "emergent": [],
+    "outside": [
+      {
+        "id": "calidad-mx",
+        "title": "La desconfianza por calidad es sobre todo mexicana.",
+        "metricOtros": "topics.calidad",
+        "metricCo": "topics.calidad",
+        "body": "Fuera de Colombia, {{otros.topics.calidad.consumerShare|pct}} de la conversación habla de huevos en mal estado, salmonela o importados de menor calidad; en Colombia es {{topics.calidad.consumerShare|pct}}. No se traslada al consumidor colombiano."
+      },
+      {
+        "id": "nutricion-otros",
+        "title": "La proteína pesa más fuera de Colombia.",
+        "metricOtros": "topics.nutricion",
+        "metricCo": "topics.nutricion",
+        "body": "Proteína, nutrición y fitness son {{otros.topics.nutricion.consumerShare|pct}} de la conversación en otros países y {{topics.nutricion.consumerShare|pct}} en Colombia."
+      }
+    ],
+    "brands": [
+      {
+        "title": "Habla de rendimiento, no solo de precio.",
+        "body": "Cuántas comidas resuelve una cubeta y recetas de bajo costo: en Colombia el huevo ya se mide en pesos por comida.",
+        "basedOn": [
+          "topics.precio",
+          "signals.cubetaCarton",
+          "signals.arrozConHuevo"
+        ]
+      },
+      {
+        "title": "Habla de precio sin tomar partido.",
+        "body": "{{derived.politicalShareOfPrice|pct}} de la conversación colombiana de precio es política. Datos claros y útiles, sin señalar culpables, evitan quedar en medio de la polarización.",
+        "basedOn": [
+          "signals.precioPolitizado"
+        ]
+      },
+      {
+        "title": "Conecta con la mesa colombiana.",
+        "body": "Desayuno, arepa de huevo y platos propios construyen afecto donde el precio no compite.",
+        "basedOn": [
+          "topics.identidad",
+          "topics.desayuno"
+        ]
+      }
+    ]
+  },
+  "pollo": {
+    "derived": {
+      "petFeedEstimated": [
+        "total.signals.mascotasAlimentacion.n",
+        "*",
+        "validation.mascotasAlimentacion.pollo"
+      ],
+      "petFeedEstimatedShare": [
+        "derived.petFeedEstimated",
+        "/",
+        "total.consumerN"
+      ],
+      "asadoShare": [
+        "signals.polloAsado.n",
+        "/",
+        "consumerN"
+      ],
+      "politicalShareOfPrice": [
+        "signals.precioPolitizado.n",
+        "/",
+        "topics.precio.consumerN"
+      ],
+      "priceRatio": [
+        "topics.precio.consumerShare",
+        "/",
+        "otros.topics.precio.consumerShare"
+      ]
+    },
+    "headline": {
+      "title": "En Colombia, el pollo se conversa entre la receta y lo que cuesta.",
+      "body": "{{topics.recetas.consumerShare|pct}} de lo que dicen los consumidores colombianos es sobre cómo prepararlo y {{topics.precio.consumerShare|pct}} sobre su precio, más del doble que fuera de Colombia ({{otros.topics.precio.consumerShare|pct}}).",
+      "gate": [
+        [
+          "topics.recetas.consumerShare",
+          ">=",
+          15
+        ],
+        [
+          "derived.priceRatio",
+          ">=",
+          2
+        ]
+      ]
+    },
+    "tensions": [
+      {
+        "id": "precio",
+        "kind": "tensión",
+        "title": "Uno de los precios que mide la canasta",
+        "metric": "topics.precio",
+        "body": "El pollo aparece en la lista de lo que subió, junto a la gasolina, la carne y el mercado; {{derived.politicalShareOfPrice|pct}} de esas menciones son políticas."
+      },
+      {
+        "id": "recetas",
+        "kind": "motivador",
+        "title": "La proteína de la cocina diaria",
+        "metric": "topics.recetas",
+        "body": "Sudado, asado, en sopa, apanado o con arroz: la conversación colombiana sobre pollo es ante todo de preparación."
+      },
+      {
+        "id": "antojo",
+        "kind": "motivador",
+        "title": "Antojo y salida",
+        "metric": "topics.antojo",
+        "body": "Pollo asado, broaster y frito aparecen como gusto y como plan fuera de casa."
+      },
+      {
+        "id": "rapida",
+        "kind": "motivador",
+        "title": "Comida lista y asaderos",
+        "metric": "topics.comida_rapida",
+        "body": "Asaderos, broaster y comida rápida compiten con el pollo que se cocina en casa."
+      },
+      {
+        "id": "nutricion",
+        "kind": "motivador",
+        "title": "Proteína para comer bien",
+        "metric": "topics.nutricion",
+        "body": "Una parte menor de la conversación lo nombra como proteína de la dieta y del plato equilibrado."
+      }
+    ],
+    "insights": [
+      {
+        "id": "pollo-asado",
+        "title": "El pollo asado es una medida del costo de vida.",
+        "seeing": "{{signals.polloAsado.n|int}} menciones colombianas ({{derived.asadoShare|pct}}) hablan de pollo asado, broaster o asadero: lo que cuesta, dónde se compra y cuándo se come. Su precio se cita como prueba de que “todo subió”.",
+        "why": "El pollo listo es un referente de precio y de plan familiar. Marcas y asaderos compiten en el mismo momento de decisión que el pollo crudo.",
+        "metric": "signals.polloAsado",
+        "quality": {
+          "new": true,
+          "decision": true
+        }
+      }
+    ],
+    "unexpectedUses": [],
+    "emergent": [
+      {
+        "id": "mascotas",
+        "title": "Las mascotas aparecen como un nuevo contexto de consumo dentro del hogar.",
+        "status": "Señal emergente",
+        "metric": "signals.mascotasAlimentacion",
+        "purchaseMetric": "signals.mascotasCompra",
+        "precision": "validation.mascotasAlimentacion.pollo",
+        "body": "Personas que hierven, deshebran o cocinan pollo para su perro o gato, lo usan como premio o en dietas de mascotas enfermas. Todavía no hay evidencia suficiente de compra explícita para hablar de un nuevo decisor de compra.",
+        "confidence": "baja"
+      }
+    ],
+    "outside": [
+      {
+        "id": "identidad-otros",
+        "title": "El pollo como “comida favorita” es una tendencia de otros mercados.",
+        "metricOtros": "signals.comidaFavorita",
+        "metricCo": "signals.comidaFavorita",
+        "body": "{{otros.signals.comidaFavorita.n|int}} menciones en otros países (y {{sinpais.signals.comidaFavorita.n|int}} sin país) lo declaran comida favorita en tendencias de “preséntate”; en Colombia solo {{signals.comidaFavorita.n|int}}."
+      },
+      {
+        "id": "fitness-otros",
+        "title": "El pollo fitness habla sobre todo fuera de Colombia.",
+        "metricOtros": "signals.proteinaFitness",
+        "metricCo": "signals.proteinaFitness",
+        "body": "{{otros.signals.proteinaFitness.n|int}} menciones en otros países lo asocian con proteína, gimnasio o masa muscular; en Colombia, {{signals.proteinaFitness.n|int}}."
+      },
+      {
+        "id": "calidad-otros",
+        "title": "Las quejas de pollo en mal estado son de otros mercados.",
+        "metricOtros": "signals.podridoMalEstado",
+        "metricCo": "signals.podridoMalEstado",
+        "body": "{{otros.signals.podridoMalEstado.n|int}} menciones en otros países hablan de pollo en mal estado en supermercados; en Colombia, {{signals.podridoMalEstado.n|int}}."
+      }
+    ],
+    "brands": [
+      {
+        "title": "Habla de rendimiento familiar.",
+        "body": "En Colombia el pollo se discute dentro del costo de la canasta: porciones, cortes que rinden y comidas por presupuesto.",
+        "basedOn": [
+          "topics.precio"
+        ]
+      },
+      {
+        "title": "Ocupa el momento del pollo asado.",
+        "body": "El asadero es el referente de plan y de precio en la conversación colombiana: combos familiares y recetas tipo asadero en casa.",
+        "basedOn": [
+          "signals.polloAsado",
+          "topics.comida_rapida"
+        ]
+      },
+      {
+        "title": "Sé útil en la cocina diaria.",
+        "body": "Recetas colombianas simples (sudado, sopa, apanado, arroz con pollo) son el formato que la conversación ya busca.",
+        "basedOn": [
+          "topics.recetas"
+        ]
+      }
+    ]
+  },
+  "_doc_topicsExcluded": "Mascotas y usos no alimentarios no se listan como temáticas principales: su lectura válida es la señal específica (emergentes / usos inesperados), con precisión auditada."
+}

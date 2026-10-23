@@ -1,0 +1,70 @@
+{
+ "generatedAt": "2026-10-23T01:56:03.373Z",
+ "files": [
+  {
+   "file": "Comprador_Del_Hogar.xlsx",
+   "segment": "comprador-hogar",
+   "rows": 997,
+   "items": 879,
+   "duplicatesSkipped": 108,
+   "segment000": 14317.8
+  },
+  {
+   "file": "Compra_Vehiculo_Proximos6Meses.xlsx",
+   "segment": "compra-vehiculo",
+   "rows": 997,
+   "items": 879,
+   "duplicatesSkipped": 108,
+   "segment000": 3107.7
+  },
+  {
+   "file": "Consumidor_Huevo_TodosLosDias.xlsx",
+   "segment": "huevo",
+   "rows": 997,
+   "items": 879,
+   "duplicatesSkipped": 108,
+   "segment000": 10092.4
+  },
+  {
+   "file": "Consumidor_Pollo_+2vecesxsemana.xlsx",
+   "segment": "pollo",
+   "rows": 997,
+   "items": 879,
+   "duplicatesSkipped": 108,
+   "segment000": 12453.8
+  },
+  {
+   "file": "C_Level.xlsx",
+   "segment": "c-level",
+   "rows": 997,
+   "items": 879,
+   "duplicatesSkipped": 108,
+   "segment000": 1174.5
+  },
+  {
+   "file": "Mochilero.xlsx",
+   "segment": "mochilero",
+   "rows": 997,
+   "items": 879,
+   "duplicatesSkipped": 108,
+   "segment000": 1065.7
+  },
+  {
+   "file": "Moteros.xlsx",
+   "segment": "moteros",
+   "rows": 997,
+   "items": 879,
+   "duplicatesSkipped": 108,
+   "segment000": 6211.7
+  },
+  {
+   "file": "Pensionados.xlsx",
+   "segment": "pensionados",
+   "rows": 997,
+   "items": 879,
+   "duplicatesSkipped": 108,
+   "segment000": 581.7
+  }
+ ],
+ "unmapped": []
+}

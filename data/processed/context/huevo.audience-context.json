@@ -1,0 +1,234 @@
+{
+ "segment": "Consumidor de huevo diario",
+ "size": "10.1 M personas (45.4% de la población TGI)",
+ "source": "Colombia TGI (Español) TGI CO 2026 R2 - Personas",
+ "profile": {
+  "headline": "Mayoría femenina de 35 a 64 años, con más peso en Oriente.",
+  "gender": [
+   "Masculino: 42% (índice 88)",
+   "Femenino: 58% (índice 111)"
+  ],
+  "age": [
+   "12–17: 11.3% (índice 102)",
+   "18–24: 11.9% (índice 83)",
+   "25–34: 17.4% (índice 79)",
+   "35–44: 20.4% (índice 110)",
+   "45–54: 16.7% (índice 116)",
+   "55–64: 17.6% (índice 114)",
+   "65+: 4.7% (índice 119)"
+  ],
+  "nse": [
+   "Estrato 2: 42% (índice 98)",
+   "Estrato 3: 35.9% (índice 101)",
+   "Estrato 4: 14.4% (índice 104)",
+   "Estrato 5 y 6: 7.8% (índice 102)"
+  ],
+  "region": [
+   "Bogotá: 24.1% (índice 95)",
+   "Antioquia: 15.3% (índice 100)",
+   "Pacífico: 15.9% (índice 101)",
+   "Oriente: 13% (índice 119)",
+   "Caribe: 11% (índice 78)",
+   "Café: 6.2% (índice 105)",
+   "Andina: 14.6% (índice 115)"
+  ],
+  "education": [
+   "Sin estudios: 0.1% (índice 31)",
+   "Primaria: 4% (índice 102)",
+   "Bachillerato: 24.8% (índice 98)",
+   "Técnico o tecnológico: 27.3% (índice 100)",
+   "Universitario: 35.5% (índice 102)",
+   "Posgrado: 7.2% (índice 104)"
+  ],
+  "household": [
+   "Jefe de familia-Sí: 60.5%",
+   "Entrevistado: 62.6%"
+  ]
+ },
+ "activities": [
+  "Escuchar música: 57.8% (índice 107)",
+  "Comer en un restaurante: 40% (índice 104)",
+  "Salir a caminar/ senderismo: 36.6% (índice 110)",
+  "Cocinar/ actividades culinarias: 33.7% (índice 103)",
+  "Ir a centros comerciales: 32.4% (índice 113)",
+  "Ir a la playa/ laguna/ río: 25.3% (índice 110)",
+  "Salir de la ciudad: 24.4% (índice 112)",
+  "Leer libros: 22.4% (índice 110)"
+ ],
+ "sports": [
+  "Actividades más frecuentes/ de rutina: Fútbol: 21% (índice 97)",
+  "Actividades más frecuentes/ de rutina: Baloncesto: 14.2% (índice 102)",
+  "Actividades más frecuentes/ de rutina: Atletismo: 14% (índice 98)",
+  "Actividades más frecuentes/ de rutina: Ciclismo: 13.1% (índice 102)",
+  "Actividades más frecuentes/ de rutina: Otros deportes: 9.7% (índice 118)"
+ ],
+ "vacations": [
+  "Playa/ resort/ balneario: 22.9% (índice 103)",
+  "Descanso en la ciudad: 19.7% (índice 104)",
+  "Lagos y montañas: 9.4% (índice 98)",
+  "Parque temático: 8% (índice 104)"
+ ],
+ "opinions": [
+  "Le atrae viajar al exterior: 45.7% (índice 103)",
+  "Celebra el Día del Padre y de la Madre: 36.9% (índice 104)",
+  "Disfruta el tiempo en familia: 52.2% (índice 102)",
+  "Aprovecha las oportunidades cuando surgen: 46.4% (índice 102)",
+  "Disfruta celebrar Navidad y Año Nuevo: 43.6% (índice 102)",
+  "Asume su jubilación como responsabilidad propia: 39% (índice 102)",
+  "Busca ideas para mejorar su hogar: 37.7% (índice 101)",
+  "Evita endeudarse: 45.7% (índice 101)"
+ ],
+ "sharedOpinions": [
+  "Disfruta el tiempo en familia: 52.2% (índice 102)",
+  "Persiste aunque no triunfe a la primera: 46.6% (índice 100)",
+  "Aprovecha las oportunidades cuando surgen: 46.4% (índice 102)",
+  "La música es central en su vida: 46.4% (índice 100)",
+  "Le atrae viajar al exterior: 45.7% (índice 103)"
+ ],
+ "futurePlans": [
+  "Emprender un negocio propio: 18.1% (índice 109)",
+  "Reformar el hogar: 17.3% (índice 107)",
+  "Comprar su primera vivienda: 11.1% (índice 108)",
+  "Viajar al exterior por primera vez: 10.2% (índice 106)",
+  "Iniciar un posgrado: 8.4% (índice 103)"
+ ],
+ "radio": {
+  "reach": "71.1% escucha radio (índice 101)",
+  "best": "Mejor franja: L–V 06–11 (34.1%, índice 124)",
+  "stations": [
+   "Caracol: 17.2% (índice 91)",
+   "Olímpica: 17.1% (índice 113)",
+   "La FM: 16.5% (índice 102)",
+   "Bésame: 15.5% (índice 88)",
+   "Tropicana: 13.9% (índice 104)",
+   "Blu: 13.2% (índice 91)",
+   "La Mega: 11.7% (índice 91)",
+   "Alerta: 5.3% (índice 87)"
+  ],
+  "programs": [
+   "Educación: 10.6% (índice 132)",
+   "Humor: 18.3% (índice 128)",
+   "Noticias nacionales: 23% (índice 128)",
+   "Política: 11.5% (índice 126)",
+   "Salud/ medicina/ calidad de vida: 13.6% (índice 126)",
+   "Comida y bebida/ cocina: 11.1% (índice 125)"
+  ],
+  "places": [
+   "En mi hogar: 41.4% (índice 110)",
+   "En el automóvil: 16% (índice 107)",
+   "En el trabajo: 13.9% (índice 91)",
+   "En transporte público: 6.7% (índice 113)"
+  ]
+ },
+ "prisaBrands": [
+  "Radioacktiva: 3.5% (índice 107)",
+  "Tropicana: 13.9% (índice 104)",
+  "Los40: 3.9% (índice 96)",
+  "Caracol Radio: 17.2% (índice 91)",
+  "Bésame: 15.5% (índice 88)"
+ ],
+ "digital": {
+  "social": [
+   "Facebook: 73% (índice 109)",
+   "YouTube: 61% (índice 115)",
+   "Instagram: 60.4% (índice 110)",
+   "TikTok: 48% (índice 110)",
+   "X: 16.4% (índice 111)",
+   "Pinterest: 15.7% (índice 106)",
+   "LinkedIn: 13.3% (índice 115)",
+   "Threads: 3.9% (índice 125)"
+  ],
+  "apps": [
+   "Usó-U30d: Bancos: 49.5% (índice 106)",
+   "Usó-U30d: Red social: 38.4% (índice 119)",
+   "Usó-U30d: Música: 32.2% (índice 111)",
+   "Google Maps: 25.7% (índice 118)",
+   "Usó-U30d: Compras: 20.4% (índice 105)",
+   "Rappi: 20% (índice 110)"
+  ],
+  "internetPeriods": [
+   "06–11: 50.2% (índice 107)",
+   "12–14: 47.9% (índice 102)",
+   "15–19: 70.3% (índice 106)",
+   "20–23: 54.9% (índice 109)",
+   "00–05: 7.9% (índice 104)"
+  ]
+ },
+ "video": [
+  "Netflix: 44.5% (índice 108)",
+  "Disney+: 22.1% (índice 101)",
+  "Prime Video: 17.1% (índice 110)",
+  "HBO Max: 16.5% (índice 110)",
+  "YouTube videos pagos: 10.4% (índice 103)",
+  "Claro TV+: 6.9% (índice 99)"
+ ],
+ "podcast": {
+  "listens": "36.4%",
+  "topics": [
+   "Estilo de Vida y Salud: 12.1% (índice 119)",
+   "Música: 10.8% (índice 121)",
+   "Comedia: 8.6% (índice 109)",
+   "Ficción/ Historias: 8.5% (índice 115)",
+   "Tecnología: 8.3% (índice 105)",
+   "Educación: 7.7% (índice 108)"
+  ]
+ },
+ "contentThemes": [
+  "Noticias nacionales (Radio): 23% (índice 128)",
+  "Humor (Radio): 18.3% (índice 128)",
+  "Noticias nacionales/ noticias locales (Total) (Radio): 27.3% (índice 122)",
+  "Siempre veo/ regularmente: Películas (Video online): 37.6% (índice 119)",
+  "Noticias locales (Radio): 19.8% (índice 125)",
+  "Educación (Radio): 10.6% (índice 132)",
+  "Siempre veo/ regularmente: Series extranjeras (Video online): 22.2% (índice 121)",
+  "Salud/ medicina/ calidad de vida (Radio): 13.6% (índice 126)"
+ ],
+ "socialListening": {
+  "market": "Colombia (solo menciones con país Colombia; otros mercados = contexto)",
+  "headline": "En Colombia, el huevo se conversa como termómetro del bolsillo.",
+  "period": {
+   "from": "2026-07-23 04:33:10",
+   "to": "2026-10-22 19:10:53"
+  },
+  "colombiaMentions": 760,
+  "topics": [
+   "Precio y costo de vida: 39.2% (298 menciones en Colombia)",
+   "Recetas y preparación: 11.8% (90 menciones en Colombia)",
+   "Identidad y tradición gastronómica: 8.4% (64 menciones en Colombia)",
+   "Familia y hogar: 7.4% (56 menciones en Colombia)",
+   "Antojo y placer: 6.6% (50 menciones en Colombia)",
+   "Desayuno y rutina diaria: 5.9% (45 menciones en Colombia)"
+  ],
+  "tensions": [
+   "tensión — Un básico que sube: La cubeta y el cartón son la unidad con la que el hogar mide la inflación: 70 menciones colombianas hablan de la cubeta, el cartón o el panal.",
+   "necesidad — Que alcance para comer: El huevo aparece como la comida que queda cuando no alcanza la plata: “a punta de arroz con huevo”.",
+   "motivador — Resuelve cualquier comida: Frito, revuelto, en perico, en caldo o con arroz: 11,8 % de la conversación habla de cómo se prepara.",
+   "motivador — Orgullo de la mesa colombiana: La arepa de huevo concentra esta conversación (54 menciones colombianas): se defiende como plato propio y referente regional.",
+   "motivador — Lo de acá y lo de campo: Huevo de campo, galpones, avicultores y producción nacional aparecen como referencia frente al huevo barato o importado."
+  ],
+  "occasions": [
+   "Desayuno: 30 menciones en Colombia",
+   "Cuando no alcanza la plata: 23 menciones en Colombia",
+   "Almuerzo: 11 menciones en Colombia"
+  ],
+  "insights": [
+   "El arroz con huevo es la unidad mínima de la mesa. 127 menciones colombianas (16,7 %) nombran “arroz con huevo”. Se usa para hablar de carencia y austeridad, y también para defenderlo como plato propio.",
+   "La cubeta se volvió argumento político. 99 menciones colombianas sobre el precio del huevo nombran gobiernos, presidentes o partidos (33,2 % de la conversación de precio): el valor de la cubeta se usa para defender o atacar una gestión."
+  ],
+  "emergentSignals": [],
+  "otherMarketsContext": [
+   "La desconfianza por calidad es sobre todo mexicana. Fuera de Colombia, 21,1 % de la conversación habla de huevos en mal estado, salmonela o importados de menor calidad; en Colombia es 2,5 %. No se traslada al consumidor colombiano."
+  ],
+  "sentiment": "lectura exploratoria (precisión auditada por debajo del 80 %): no usar como KPI",
+  "excerpts": [
+   "“Cuál exito La inflación sube El desempleo sube El dólar sube La guerra la inseguridad sube El cartón de huevo sube Los alimentos sube Regalo nuestra riqueza La panadería de este presidente sube La pobreza sube Joda…”",
+   "“CRECIÓ COMIENDO ARROZ Y CUCAYO Y AHORA COME CAVIAR... NO LE IMPORTAN LOS POBRES QUE COMEN ARROZ CON HUEVO. COMO VEREMOS UNA BANDEJA PAISA CON MARAÑÓN, CHORIZO, FRIJOL ,CARNE MOLIDA Y AGUACATE. O UN FRITO SUDADO CON…”",
+   "“Yoongi comiendo arepa de huevo pudo haber sido un sueño pero en verdad no porque fue una realidad, Yoongi comió arepa de huevo estando en Colombia y de ahora en adelante esa información me va a mantener viva.”"
+  ]
+ },
+ "crossSourceInsights": [
+  "El cuidado del gasto no es solo declarado. TGI DICE: 37,8 % del segmento dice que hoy gasta con más cuidado que antes (índice 99). SOCIAL OBSERVA (Colombia): El precio es la temática nº 1 en Colombia: 39,2 % de la conversación relevante (298 menciones). LECTURA: La preocupación por el gasto organiza también la conversación espontánea: cada mensaje sobre huevo se leerá en clave de presupuesto.",
+  "La cocina diaria es el escenario natural del huevo. TGI DICE: 27,9 % afirma que le encanta cocinar (índice 94). SOCIAL OBSERVA (Colombia): 11,8 % de la conversación colombiana habla de preparaciones concretas: frito, revuelto, perico, arepa (90 menciones). LECTURA: El gusto por cocinar se expresa en recetas cotidianas: la marca tiene permiso de entrar siendo útil antes que publicitaria.",
+  "El huevo se come en familia. TGI DICE: 52,2 % disfruta el tiempo en familia (índice 102). SOCIAL OBSERVA (Colombia): 7,4 % de la conversación colombiana nombra hijos, mamá, abuela o la casa (56 menciones). LECTURA: La familia no es solo un valor declarado: es el escenario donde aparece el huevo en la conversación."
+ ]
+}

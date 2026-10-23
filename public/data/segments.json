@@ -1,0 +1,82 @@
+{
+ "generatedAt": "2026-10-23T11:52:08.723Z",
+ "stats": {
+  "variables": 879,
+  "mentions": 169602,
+  "relevant": 20876
+ },
+ "segments": [
+  {
+   "id": "c-level",
+   "name": "C-Level",
+   "variables": 879,
+   "size000": 1175,
+   "share": 5.3,
+   "hasSocial": false,
+   "product": null
+  },
+  {
+   "id": "compra-vehiculo",
+   "name": "Compra vehículo próximos 6 meses",
+   "variables": 879,
+   "size000": 3108,
+   "share": 14,
+   "hasSocial": false,
+   "product": null
+  },
+  {
+   "id": "comprador-hogar",
+   "name": "Comprador del hogar",
+   "variables": 879,
+   "size000": 14318,
+   "share": 64.4,
+   "hasSocial": false,
+   "product": null
+  },
+  {
+   "id": "huevo",
+   "name": "Consumidor de huevo diario",
+   "variables": 879,
+   "size000": 10092,
+   "share": 45.4,
+   "hasSocial": true,
+   "product": "huevo"
+  },
+  {
+   "id": "pollo",
+   "name": "Consumidor de pollo 2+ veces por semana",
+   "variables": 879,
+   "size000": 12454,
+   "share": 56,
+   "hasSocial": true,
+   "product": "pollo"
+  },
+  {
+   "id": "mochilero",
+   "name": "Mochilero",
+   "variables": 879,
+   "size000": 1066,
+   "share": 4.8,
+   "hasSocial": false,
+   "product": null
+  },
+  {
+   "id": "moteros",
+   "name": "Moteros",
+   "variables": 879,
+   "size000": 6212,
+   "share": 27.9,
+   "hasSocial": false,
+   "product": null
+  },
+  {
+   "id": "pensionados",
+   "name": "Pensionados",
+   "variables": 879,
+   "size000": 582,
+   "share": 2.6,
+   "hasSocial": false,
+   "product": null
+  }
+ ]
+}
