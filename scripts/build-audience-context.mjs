@@ -264,7 +264,7 @@ function audienceContext(o) {
       tensions: o.social.tensions.map((t) => `${t.kind} — ${t.title}: ${t.body}`),
       occasions: o.social.occasions.map((x) => `${x.name}: ${x.n} menciones en Colombia`),
       insights: o.social.insights.map((u) => `${u.title} ${u.seeing}`),
-      emergentSignals: o.social.emergent.map((e) => `[${e.status}, confianza ${e.confidence}] ${e.title} Detectadas: Colombia ${e.detected.co}, otros países ${e.detected.otros}, sin país ${e.detected.sinpais}. ${e.geoNote ?? ''}`),
+      emergentSignals: o.social.emergent.map((e) => `[${e.status}] ${e.title} Detectadas: Colombia ${e.detected.co}, otros países ${e.detected.otros}, sin país ${e.detected.sinpais}. ${e.geoNote ?? ''}`),
       otherMarketsContext: o.social.outside.map((x) => `${x.title} ${x.body}`),
       sentiment: 'lectura exploratoria (precisión auditada por debajo del 80 %): no usar como KPI',
       excerpts: o.social.voices.map((e) => `“${e.text}”`),

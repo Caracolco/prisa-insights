@@ -180,8 +180,8 @@ export function Social({ s }: { s: Segment }) {
       {/* 6. Señales emergentes */}
       {so.emergent.length > 0 && (
         <section className="block">
-          <h2 className="block__title">Señales emergentes</h2>
-          <p className="block__lede">Conversaciones con evidencia todavía insuficiente para un hallazgo. Se muestran con su precisión, su geografía y su nivel de confianza.</p>
+          <h2 className="block__title">Insights en crecimiento</h2>
+          <p className="block__lede">Conversaciones que empiezan a revelar nuevos contextos, usos y oportunidades alrededor del consumo.</p>
           {so.emergent.map((e) => (
             <article key={e.id} className="emerg">
               <header className="emerg__head">

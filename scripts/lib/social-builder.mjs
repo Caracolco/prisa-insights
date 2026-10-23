@@ -91,9 +91,9 @@ export function buildSocial({ product, m, editorial, quality }) {
       share: { co: g.co.share, otros: g.otros.share, sinpais: g.sinpais.share, total: stat(get('total.' + b.metric)).share },
       shareEstimated: precision ? Math.round(stat(get('total.' + b.metric)).share * precision * 10) / 10 : null,
       purchase: purchase ? { co: purchase.co.n, otros: purchase.otros.n, sinpais: purchase.sinpais.n } : null,
-      geoNote: mostlyOutside
+      geoNote: b.geoNote ?? (mostlyOutside
         ? `Esta conversación aparece con fuerza fuera de Colombia (${g.otros.n.toLocaleString('es-CO')} menciones en otros países y ${g.sinpais.n.toLocaleString('es-CO')} sin país identificado), pero todavía tiene poca evidencia en Colombia (${g.co.n} menciones).`
-        : null,
+        : null),
       evidence,
     };
   }).filter((b) => b.detected.total >= R.minNColombia);

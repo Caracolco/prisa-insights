@@ -256,7 +256,8 @@
         "purchaseMetric": "signals.mascotasCompra",
         "precision": "validation.mascotasAlimentacion.pollo",
         "body": "Empiezan a aparecer conversaciones en las que el pollo se incorpora a la alimentación de perros y gatos: hervido, desmechado, como premio o como parte de dietas especiales. La señal tiene mayor desarrollo fuera de Colombia, pero ya aparece en la conversación local y abre una nueva ocasión de consumo dentro del hogar.",
-        "confidence": "baja"
+        "confidence": "baja",
+        "geoNote": "La conversación ya aparece en Colombia y alcanza una escala mayor en otros mercados, donde el uso del pollo en la alimentación de mascotas muestra un desarrollo más amplio."
       }
     ],
     "outside": [
